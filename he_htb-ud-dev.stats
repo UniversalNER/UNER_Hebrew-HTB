@@ -1,0 +1,56 @@
+{
+  "dataset_id": "he_htb-ud-dev",
+  "num_documents": 17,
+  "num_annotated_documents": 17,
+  "num_annotations": 1002,
+  "num_annotators": 2,
+  "annotator_ids": [
+    "shacharmirkin",
+    "yuvalpinter"
+  ],
+  "num_docs_with_multiple_annotators": 17,
+  "num_sentences": 484,
+  "num_tokens": 11412,
+  "label_distribution": {
+    "LOC": 120,
+    "ORG": 129,
+    "PER": 185
+  },
+  "pairwise_f1": {
+    "ref:shacharmirkin, pred:yuvalpinter": {
+      "num_common_annotated_docs": 17,
+      "LOC": {
+        "precision": 0.6906474820143885,
+        "recall": 0.8,
+        "f1": 0.7413127413127415
+      },
+      "ORG": {
+        "precision": 0.7475728155339806,
+        "recall": 0.5968992248062015,
+        "f1": 0.6637931034482759
+      },
+      "PER": {
+        "precision": 0.9675675675675676,
+        "recall": 0.9675675675675676,
+        "f1": 0.9675675675675676
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.6906474820143885,
+        "recall": 0.8,
+        "f1": 0.7413127413127415
+      },
+      "ORG": {
+        "precision": 0.7475728155339806,
+        "recall": 0.5968992248062015,
+        "f1": 0.6637931034482759
+      },
+      "PER": {
+        "precision": 0.9675675675675676,
+        "recall": 0.9675675675675676,
+        "f1": 0.9675675675675676
+      }
+    }
+  }
+}
