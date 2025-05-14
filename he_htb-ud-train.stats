@@ -1,0 +1,93 @@
+{
+  "dataset_id": "he_htb-ud-train",
+  "num_documents": 175,
+  "num_annotated_documents": 175,
+  "num_annotations": 9056,
+  "num_annotators": 3,
+  "annotator_ids": [
+    "hilagnn@gmail.com",
+    "shacharmirkin",
+    "yuvalpinter"
+  ],
+  "num_docs_with_multiple_annotators": 52,
+  "num_sentences": 5241,
+  "num_tokens": 137717,
+  "label_distribution": {
+    "ORG": 2436,
+    "LOC": 1421,
+    "PER": 2156
+  },
+  "pairwise_f1": {
+    "ref:hilagnn@gmail.com, pred:shacharmirkin": {
+      "num_common_annotated_docs": 27,
+      "LOC": {
+        "precision": 0.8385826771653543,
+        "recall": 0.8801652892561983,
+        "f1": 0.8588709677419355
+      },
+      "ORG": {
+        "precision": 0.8391608391608392,
+        "recall": 0.8163265306122449,
+        "f1": 0.8275862068965517
+      },
+      "PER": {
+        "precision": 0.9300699300699301,
+        "recall": 0.9172413793103448,
+        "f1": 0.923611111111111
+      }
+    },
+    "ref:hilagnn@gmail.com, pred:yuvalpinter": {
+      "num_common_annotated_docs": 1,
+      "LOC": {
+        "precision": 0.6666666666666666,
+        "recall": 0.8333333333333334,
+        "f1": 0.7407407407407408
+      },
+      "ORG": {
+        "precision": 0.8421052631578947,
+        "recall": 0.6956521739130435,
+        "f1": 0.761904761904762
+      },
+      "PER": {
+        "precision": 0.7272727272727273,
+        "recall": 0.7272727272727273,
+        "f1": 0.7272727272727273
+      }
+    },
+    "ref:shacharmirkin, pred:yuvalpinter": {
+      "num_common_annotated_docs": 26,
+      "LOC": {
+        "precision": 0.6348547717842323,
+        "recall": 0.864406779661017,
+        "f1": 0.7320574162679426
+      },
+      "ORG": {
+        "precision": 0.8254310344827587,
+        "recall": 0.7118959107806692,
+        "f1": 0.7644710578842316
+      },
+      "PER": {
+        "precision": 0.8517699115044248,
+        "recall": 0.8810068649885584,
+        "f1": 0.8661417322834647
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.7133680385387512,
+        "recall": 0.8593018007501829,
+        "f1": 0.7772230415835396
+      },
+      "ORG": {
+        "precision": 0.8355657122671643,
+        "recall": 0.7412915384353193,
+        "f1": 0.7846540088951818
+      },
+      "PER": {
+        "precision": 0.8363708562823607,
+        "recall": 0.8418403238572102,
+        "f1": 0.8390085235557677
+      }
+    }
+  }
+}
