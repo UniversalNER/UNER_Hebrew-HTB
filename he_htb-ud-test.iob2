@@ -1,7 +1,7 @@
 # newdoc id = batch-0000
 # sent_id = batch-0000-0001
 # text = הולקומב לא הזכיר את יכולת_ _של_ _הוא , קרטר ו סמית ש היו אמורים לעזור ב ריבאונד , נתקלו ב קמבל ו בורמור ש קטפו את מרבית ה כדורים ה חוזרים עובדה ש איפשרה ל ה_ גליל לצאת ל התקפות מתפרצות בורמור הוביל, גורדון ו מטלון סיימו ב מרבית ה מקרים ב סל .
-1	הולקומב	B-PER	-	shacharmirkin
+1	הולקומב	B-PER	-	shachar
 2	לא	O	-	-
 3	הזכיר	O	-	-
 4	את	O	-	-
@@ -9,9 +9,9 @@
 6	_של_	O	-	-
 7	_הוא	O	-	-
 8	,	O	-	-
-9	קרטר	B-PER	-	shacharmirkin
+9	קרטר	B-PER	-	shachar
 10	ו	O	-	-
-11	סמית	B-PER	-	shacharmirkin
+11	סמית	B-PER	-	shachar
 12	ש	O	-	-
 13	היו	O	-	-
 14	אמורים	O	-	-
@@ -21,9 +21,9 @@
 18	,	O	-	-
 19	נתקלו	O	-	-
 20	ב	O	-	-
-21	קמבל	B-PER	-	shacharmirkin
+21	קמבל	B-PER	-	shachar
 22	ו	O	-	-
-23	בורמור	B-PER	-	shacharmirkin
+23	בורמור	B-PER	-	shachar
 24	ש	O	-	-
 25	קטפו	O	-	-
 26	את	O	-	-
@@ -42,12 +42,12 @@
 39	ל	O	-	-
 40	התקפות	O	-	-
 41	מתפרצות	O	-	-
-42	בורמור	B-PER	-	shacharmirkin
+42	בורמור	B-PER	-	shachar
 43	הוביל	O	-	-
 44	,	O	-	-
-45	גורדון	B-PER	-	shacharmirkin
+45	גורדון	B-PER	-	shachar
 46	ו	O	-	-
-47	מטלון	B-PER	-	shacharmirkin
+47	מטלון	B-PER	-	shachar
 48	סיימו	O	-	-
 49	ב	O	-	-
 50	מרבית	O	-	-
@@ -67,8 +67,8 @@
 6	37	O	-	-
 7	היה	O	-	-
 8	יתרון	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	גליל	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	גליל	I-ORG	-	shachar
 11	91	O	-	-
 12	81	O	-	-
 13	.	O	-	-
@@ -79,7 +79,7 @@
 2	_של_	O	-	-
 3	_הוא	O	-	-
 4	של	O	-	-
-5	ליף	B-PER	-	shacharmirkin
+5	ליף	B-PER	-	shachar
 6	גררה	O	-	-
 7	בתוך	O	-	-
 8	דקה	O	-	-
@@ -96,9 +96,9 @@
 # sent_id = batch-0000-0004
 # text = אולם קמבל ו גורדון דייקו ב קליעה_ _של_ _הם ו הבטיחו את ה ניצחון (99 91).
 1	אולם	O	-	-
-2	קמבל	B-PER	-	shacharmirkin
+2	קמבל	B-PER	-	shachar
 3	ו	O	-	-
-4	גורדון	B-PER	-	shacharmirkin
+4	גורדון	B-PER	-	shachar
 5	דייקו	O	-	-
 6	ב	O	-	-
 7	קליעה_	O	-	-
@@ -129,9 +129,9 @@
 10	ו	O	-	-
 11	רק	O	-	-
 12	ב	O	-	-
-13	ה	B-ORG	-	shacharmirkin
-14	פועל	I-ORG	-	shacharmirkin
-15	חולון	I-ORG	-	shacharmirkin
+13	ה	B-ORG	-	shachar
+14	פועל	I-ORG	-	shachar
+15	חולון	I-ORG	-	shachar
 16	.	O	-	-
 
 # sent_id = batch-0000-0006
@@ -150,7 +150,7 @@
 2	ל_	O	-	-
 3	_הוא	O	-	-
 4	שחקני	O	-	-
-5	בית"ר	B-ORG	-	shacharmirkin
+5	בית"ר	B-ORG	-	shachar
 6	ש	O	-	-
 7	החלו	O	-	-
 8	את	O	-	-
@@ -161,8 +161,8 @@
 13	גרועה	O	-	-
 14	,	O	-	-
 15	עם	O	-	-
-16	מייקל	B-PER	-	shacharmirkin
-17	האקט	I-PER	-	shacharmirkin
+16	מייקל	B-PER	-	shachar
+17	האקט	I-PER	-	shachar
 18	כ	O	-	-
 19	רכז	O	-	-
 20	עובדה	O	-	-
@@ -170,7 +170,7 @@
 22	הותירה	O	-	-
 23	את	O	-	-
 24	סל	O	-	-
-25	חולון	B-ORG	-	shacharmirkin
+25	חולון	B-ORG	-	shachar
 26	לא	O	-	-
 27	מאויים	O	-	-
 28	,	O	-	-
@@ -178,7 +178,7 @@
 30	לא	O	-	-
 31	היה	O	-	-
 32	ב	O	-	-
-33	בית"ר	B-ORG	-	shacharmirkin
+33	בית"ר	B-ORG	-	shachar
 34	מי	O	-	-
 35	ש	O	-	-
 36	יקלע	O	-	-
@@ -186,7 +186,7 @@
 
 # sent_id = batch-0000-0008
 # text = חולון ניצלה זאת ל-212 (דקה 3) ו-617 (דקה 5).
-1	חולון	B-ORG	-	shacharmirkin
+1	חולון	B-ORG	-	shachar
 2	ניצלה	O	-	-
 3	זאת	O	-	-
 4	ל	O	-	-
@@ -211,20 +211,20 @@
 2	_של_	O	-	-
 3	_הוא	O	-	-
 4	של	O	-	-
-5	וייסמן	B-PER	-	shacharmirkin
+5	וייסמן	B-PER	-	shachar
 6	ל	O	-	-
 7	תפקיד	O	-	-
 8	ה	O	-	-
 9	רכז	O	-	-
 10	ב	O	-	-
-11	בית"ר	B-ORG	-	shacharmirkin
+11	בית"ר	B-ORG	-	shachar
 12	,	O	-	-
 13	ו	O	-	-
 14	העברה_	O	-	-
 15	_של_	O	-	-
 16	_הוא	O	-	-
 17	של	O	-	-
-18	האקט	B-PER	-	shacharmirkin
+18	האקט	B-PER	-	shachar
 19	ל	O	-	-
 20	איזור	O	-	-
 21	ה	O	-	-
@@ -232,7 +232,7 @@
 23	,	O	-	-
 24	החזירה	O	-	-
 25	את	O	-	-
-26	בית"ר	B-ORG	-	shacharmirkin
+26	בית"ר	B-ORG	-	shachar
 27	ל	O	-	-
 28	ה_	O	-	-
 29	משחק	O	-	-
@@ -240,7 +240,7 @@
 
 # sent_id = batch-0000-0010
 # text = האקט החל ב צבירת נקודות (33 ב סך הכל) ש גרדו חלק מ ה פער ל זכות חולון עד כדי שלוש נקודות בלבד, 53 50 ב ה_ דקה ה-25.
-1	האקט	B-PER	-	shacharmirkin
+1	האקט	B-PER	-	shachar
 2	החל	O	-	-
 3	ב	O	-	-
 4	צבירת	O	-	-
@@ -259,7 +259,7 @@
 17	פער	O	-	-
 18	ל	O	-	-
 19	זכות	O	-	-
-20	חולון	B-ORG	-	shacharmirkin
+20	חולון	B-ORG	-	shachar
 21	עד	O	-	-
 22	כדי	O	-	-
 23	שלוש	O	-	-
@@ -282,7 +282,7 @@
 2	ה	O	-	-
 3	יד	O	-	-
 4	של	O	-	-
-5	פייגינס	B-PER	-	shacharmirkin
+5	פייגינס	B-PER	-	shachar
 6	,	O	-	-
 7	ב	O	-	-
 8	סדרת	O	-	-
@@ -296,7 +296,7 @@
 16	)	O	-	-
 17	החזירה	O	-	-
 18	את	O	-	-
-19	חולון	B-ORG	-	shacharmirkin
+19	חולון	B-ORG	-	shachar
 20	ל	O	-	-
 21	יתרון	O	-	-
 22	גבוה	O	-	-
@@ -310,14 +310,14 @@
 4	ב_	O	-	-
 5	_הוא	O	-	-
 6	קלט	O	-	-
-7	ויליאמס	B-PER	-	shacharmirkin
+7	ויליאמס	B-PER	-	shachar
 8	ריבאונדים	O	-	-
 9	,	O	-	-
 10	יותר	O	-	-
 11	מ	O	-	-
 12	כל	O	-	-
 13	שחקני	O	-	-
-14	בית"ר	B-ORG	-	shacharmirkin
+14	בית"ר	B-ORG	-	shachar
 15	גם	O	-	-
 16	יחד	O	-	-
 17	(	O	-	-
@@ -341,16 +341,16 @@
 4	ה	O	-	-
 5	טוב	O	-	-
 6	של	O	-	-
-7	פייגינס	B-PER	-	shacharmirkin
+7	פייגינס	B-PER	-	shachar
 8	ו	O	-	-
-9	ויליאמס	B-PER	-	shacharmirkin
+9	ויליאמס	B-PER	-	shachar
 10	חיפה	O	-	-
 11	על	O	-	-
 12	מחצית	O	-	-
 13	שניה	O	-	-
 14	חלשה	O	-	-
 15	של	O	-	-
-16	דומאס	B-PER	-	shacharmirkin
+16	דומאס	B-PER	-	shachar
 17	חסר	O	-	-
 18	איפוס	O	-	-
 19	ב	O	-	-
@@ -368,7 +368,7 @@
 31	הפסקה	O	-	-
 32	)	O	-	-
 33	ו	O	-	-
-34	דלזל	B-PER	-	shacharmirkin
+34	דלזל	B-PER	-	shachar
 35	ש	O	-	-
 36	הסתפק	O	-	-
 37	ב	O	-	-
@@ -435,10 +435,10 @@
 13	,	O	-	-
 14	היא	O	-	-
 15	קבוצת	O	-	-
-16	מכבי	B-ORG	-	shacharmirkin
-17	ראשון	I-ORG	-	shacharmirkin
-18	ל	I-ORG	-	shacharmirkin
-19	ציון	I-ORG	-	shacharmirkin
+16	מכבי	B-ORG	-	shachar
+17	ראשון	I-ORG	-	shachar
+18	ל	I-ORG	-	shachar
+19	ציון	I-ORG	-	shachar
 20	.	O	-	-
 
 # sent_id = batch-0000-0017
@@ -447,8 +447,8 @@
 2	_של_	O	-	-
 3	_הוא	O	-	-
 4	של	O	-	-
-5	משה	B-PER	-	shacharmirkin
-6	ויינקרנץ	I-PER	-	shacharmirkin
+5	משה	B-PER	-	shachar
+6	ויינקרנץ	I-PER	-	shachar
 7	ישקיפו	O	-	-
 8	על	O	-	-
 9	ה	O	-	-
@@ -471,9 +471,9 @@
 4	_היא	O	-	-
 5	יארחו	O	-	-
 6	את	O	-	-
-7	מכבי	B-ORG	-	shacharmirkin
-8	תל	I-ORG	-	shacharmirkin
-9	אביב	I-ORG	-	shacharmirkin
+7	מכבי	B-ORG	-	shachar
+8	תל	I-ORG	-	shachar
+9	אביב	I-ORG	-	shachar
 10	.	O	-	-
 
 # sent_id = batch-0000-0019
@@ -505,23 +505,23 @@
 
 # sent_id = batch-0000-0021
 # text = ראשון ל ציון באה ל ה_ אולם ב אוסישקין ו תבעה קורבן נוסף ה פועל תל אביב.
-1	ראשון	B-ORG	-	shacharmirkin
-2	ל	I-ORG	-	shacharmirkin
-3	ציון	I-ORG	-	shacharmirkin
+1	ראשון	B-ORG	-	shachar
+2	ל	I-ORG	-	shachar
+3	ציון	I-ORG	-	shachar
 4	באה	O	-	-
 5	ל	O	-	-
 6	ה_	O	-	-
 7	אולם	O	-	-
 8	ב	O	-	-
-9	אוסישקין	B-LOC	-	shacharmirkin
+9	אוסישקין	B-LOC	-	shachar
 10	ו	O	-	-
 11	תבעה	O	-	-
 12	קורבן	O	-	-
 13	נוסף	O	-	-
-14	ה	B-ORG	-	shacharmirkin
-15	פועל	I-ORG	-	shacharmirkin
-16	תל	I-ORG	-	shacharmirkin
-17	אביב	I-ORG	-	shacharmirkin
+14	ה	B-ORG	-	shachar
+15	פועל	I-ORG	-	shachar
+16	תל	I-ORG	-	shachar
+17	אביב	I-ORG	-	shachar
 18	.	O	-	-
 
 # sent_id = batch-0000-0022
@@ -553,7 +553,7 @@
 
 # sent_id = batch-0000-0023
 # text = ראשל"ץ יכולה לראות עצמה עתה, חזק ב תמונת ה מאבק על 41.
-1	ראשל"ץ	B-ORG	-	shacharmirkin
+1	ראשל"ץ	B-ORG	-	shachar
 2	יכולה	O	-	-
 3	לראות	O	-	-
 4	עצמה	O	-	-
@@ -583,7 +583,7 @@
 11	9	O	-	-
 12	היה	O	-	-
 13	ב	O	-	-
-14	גבת	B-LOC	-	shacharmirkin
+14	גבת	B-LOC	-	shachar
 15	.	O	-	-
 
 # sent_id = batch-0000-0025
@@ -593,9 +593,9 @@
 3	ל	O	-	-
 4	ה_	O	-	-
 5	אלוף	O	-	-
-6	מכבי	B-ORG	-	shacharmirkin
-7	תל	I-ORG	-	shacharmirkin
-8	אביב	I-ORG	-	shacharmirkin
+6	מכבי	B-ORG	-	shachar
+7	תל	I-ORG	-	shachar
+8	אביב	I-ORG	-	shachar
 9	,	O	-	-
 10	לאחר	O	-	-
 11	שתי	O	-	-
@@ -604,7 +604,7 @@
 
 # sent_id = batch-0000-0026
 # text = גבת החמיצה הזדמנות נדירה.
-1	גבת	B-ORG	-	shacharmirkin
+1	גבת	B-ORG	-	shachar
 2	החמיצה	O	-	-
 3	הזדמנות	O	-	-
 4	נדירה	O	-	-
@@ -613,7 +613,7 @@
 # sent_id = batch-0000-0027
 # text = ל מכבי פגרה זו באה בדיוק ב ה_ זמן .
 1	ל	O	-	-
-2	מכבי	B-ORG	-	shacharmirkin
+2	מכבי	B-ORG	-	shachar
 3	פגרה	O	-	-
 4	זו	O	-	-
 5	באה	O	-	-
@@ -625,8 +625,8 @@
 
 # sent_id = batch-0000-0028
 # text = ארי רוזברג היה כוכב ה מישחק עם 43 נקודות ו שיא קליעות אישי העונה.
-1	ארי	B-PER	-	shacharmirkin
-2	רוזברג	I-PER	-	shacharmirkin
+1	ארי	B-PER	-	shachar
+2	רוזברג	I-PER	-	shachar
 3	היה	O	-	-
 4	כוכב	O	-	-
 5	ה	O	-	-
@@ -644,8 +644,8 @@
 # sent_id = batch-0000-0029
 # text = ל אד הורטון ש שיחק רק שתי דקות זה כנראה מישחק ה ליגה ה אחרון .
 1	ל	O	-	-
-2	אד	B-PER	-	shacharmirkin
-3	הורטון	I-PER	-	shacharmirkin
+2	אד	B-PER	-	shachar
+3	הורטון	I-PER	-	shachar
 4	ש	O	-	-
 5	שיחק	O	-	-
 6	רק	O	-	-
@@ -667,9 +667,9 @@
 3	מחזור	O	-	-
 4	היתה	O	-	-
 5	ב	O	-	-
-6	רמת	B-LOC	-	shacharmirkin
-7	ה	I-LOC	-	shacharmirkin
-8	שרון	I-LOC	-	shacharmirkin
+6	רמת	B-LOC	-	shachar
+7	ה	I-LOC	-	shachar
+8	שרון	I-LOC	-	shachar
 9	.	O	-	-
 
 # newdoc id = batch-0001
@@ -683,9 +683,9 @@
 6	את	O	-	-
 7	ה	O	-	-
 8	מוביל	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	פועל	I-ORG	-	shacharmirkin
-11	ירושלים	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	פועל	I-ORG	-	shachar
+11	ירושלים	I-ORG	-	shachar
 12	96	O	-	-
 13	83	O	-	-
 14	ו	O	-	-
@@ -708,9 +708,9 @@
 
 # sent_id = batch-0001-0002
 # text = רמת ה שרון קפצה שני שלבים מ ה מקום ה אחרון ו הותירה מאחור את גבת ו בית"ר ת"א.
-1	רמת	B-ORG	-	shacharmirkin
-2	ה	I-ORG	-	shacharmirkin
-3	שרון	I-ORG	-	shacharmirkin
+1	רמת	B-ORG	-	shachar
+2	ה	I-ORG	-	shachar
+3	שרון	I-ORG	-	shachar
 4	קפצה	O	-	-
 5	שני	O	-	-
 6	שלבים	O	-	-
@@ -723,10 +723,10 @@
 13	הותירה	O	-	-
 14	מאחור	O	-	-
 15	את	O	-	-
-16	גבת	B-ORG	-	shacharmirkin
+16	גבת	B-ORG	-	shachar
 17	ו	O	-	-
-18	בית"ר	B-ORG	-	shacharmirkin
-19	ת"א	I-ORG	-	shacharmirkin
+18	בית"ר	B-ORG	-	shachar
+19	ת"א	I-ORG	-	shachar
 20	.	O	-	-
 
 # sent_id = batch-0001-0003
@@ -737,19 +737,19 @@
 4	צפויים	O	-	-
 5	הושגו	O	-	-
 6	ב	O	-	-
-7	כפר	B-LOC	-	shacharmirkin
-8	בלום	I-LOC	-	shacharmirkin
+7	כפר	B-LOC	-	shachar
+8	בלום	I-LOC	-	shachar
 9	ו	O	-	-
 10	ב	O	-	-
-11	חולון	B-LOC	-	shacharmirkin
+11	חולון	B-LOC	-	shachar
 12	.	O	-	-
 
 # sent_id = batch-0001-0004
 # text = ה פועל גליל עליון שכח את ה תקריות ב שבוע ש עבר ב ירושלים ו ניצח את מכבי רמת גן 99 91.
-1	ה	B-ORG	-	shacharmirkin
-2	פועל	I-ORG	-	shacharmirkin
-3	גליל	I-ORG	-	shacharmirkin
-4	עליון	I-ORG	-	shacharmirkin
+1	ה	B-ORG	-	shachar
+2	פועל	I-ORG	-	shachar
+3	גליל	I-ORG	-	shachar
+4	עליון	I-ORG	-	shachar
 5	שכח	O	-	-
 6	את	O	-	-
 7	ה	O	-	-
@@ -759,13 +759,13 @@
 11	ש	O	-	-
 12	עבר	O	-	-
 13	ב	O	-	-
-14	ירושלים	B-LOC	-	shacharmirkin
+14	ירושלים	B-LOC	-	shachar
 15	ו	O	-	-
 16	ניצח	O	-	-
 17	את	O	-	-
-18	מכבי	B-ORG	-	shacharmirkin
-19	רמת	I-ORG	-	shacharmirkin
-20	גן	I-ORG	-	shacharmirkin
+18	מכבי	B-ORG	-	shachar
+19	רמת	I-ORG	-	shachar
+20	גן	I-ORG	-	shachar
 21	99	O	-	-
 22	91	O	-	-
 23	.	O	-	-
@@ -773,16 +773,16 @@
 # sent_id = batch-0001-0005
 # text = ל ה פועל חולון היה הרבה יותר קל נגד בית"ר ת"א 92 73.
 1	ל	O	-	-
-2	ה	B-ORG	-	shacharmirkin
-3	פועל	I-ORG	-	shacharmirkin
-4	חולון	I-ORG	-	shacharmirkin
+2	ה	B-ORG	-	shachar
+3	פועל	I-ORG	-	shachar
+4	חולון	I-ORG	-	shachar
 5	היה	O	-	-
 6	הרבה	O	-	-
 7	יותר	O	-	-
 8	קל	O	-	-
 9	נגד	O	-	-
-10	בית"ר	B-ORG	-	shacharmirkin
-11	ת"א	I-ORG	-	shacharmirkin
+10	בית"ר	B-ORG	-	shachar
+11	ת"א	I-ORG	-	shachar
 12	92	O	-	-
 13	73	O	-	-
 14	.	O	-	-
@@ -796,8 +796,8 @@
 
 # sent_id = batch-0001-0007
 # text = אורי מלמיליאן ה סובל מ פציעה ב ברך_ _של_ _הוא עבר אתמול ניתוח ארתרוסקופיה.
-1	אורי	B-PER	-	shacharmirkin
-2	מלמיליאן	I-PER	-	shacharmirkin
+1	אורי	B-PER	-	shachar
+2	מלמיליאן	I-PER	-	shachar
 3	ה	O	-	-
 4	סובל	O	-	-
 5	מ	O	-	-
@@ -852,9 +852,9 @@
 6	כיצד	O	-	-
 7	להוציא	O	-	-
 8	את	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	פועל	I-ORG	-	shacharmirkin
-11	כפ"ס	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	פועל	I-ORG	-	shachar
+11	כפ"ס	I-ORG	-	shachar
 12	מן	O	-	-
 13	ה	O	-	-
 14	מצב	O	-	-
@@ -868,7 +868,7 @@
 # sent_id = batch-0001-0011
 # text = ב כפ"ס הכחישו אמש ש נוהלו , או מתנהלים, מגעים עם מאמנים אחרים.
 1	ב	O	-	-
-2	כפ"ס	B-ORG	-	shacharmirkin
+2	כפ"ס	B-ORG	-	shachar
 3	הכחישו	O	-	-
 4	אמש	O	-	-
 5	ש	O	-	-
@@ -899,8 +899,8 @@
 12	נכון	O	-	-
 13	ל	O	-	-
 14	עכשיו	O	-	-
-15	וויטאק	B-PER	-	shacharmirkin
-16	לאזארק	I-PER	-	shacharmirkin
+15	וויטאק	B-PER	-	shachar
+16	לאזארק	I-PER	-	shachar
 17	יישאר	O	-	-
 18	מאמן	O	-	-
 19	ה	O	-	-
@@ -950,10 +950,10 @@
 6	כיוונים	O	-	-
 7	:	O	-	-
 8	מן	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	ליגה	I-ORG	-	shacharmirkin
-11	ה	I-ORG	-	shacharmirkin
-12	לאומית	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	ליגה	I-ORG	-	shachar
+11	ה	I-ORG	-	shachar
+12	לאומית	I-ORG	-	shachar
 13	או	O	-	-
 14	מ	O	-	-
 15	חו"ל	O	-	-
@@ -980,16 +980,16 @@
 17	ה	O	-	-
 18	קבוצה	O	-	-
 19	:	O	-	-
-20	קפיאס	B-PER	-	shacharmirkin
+20	קפיאס	B-PER	-	shachar
 21	או	O	-	-
-22	וויאס	B-PER	-	shacharmirkin
+22	וויאס	B-PER	-	shachar
 23	.	O	-	-
 
 # sent_id = batch-0001-0017
 # text = אתמול ערך לאזארק אימון ו היום אמור להיות אימון נוסף.
 1	אתמול	O	-	-
 2	ערך	O	-	-
-3	לאזארק	B-PER	-	shacharmirkin
+3	לאזארק	B-PER	-	shachar
 4	אימון	O	-	-
 5	ו	O	-	-
 6	היום	O	-	-
@@ -1013,9 +1013,9 @@
 10	של	O	-	-
 11	ה	O	-	-
 12	מאמן	O	-	-
-13	דרור	B-PER	-	shacharmirkin
-14	בר	I-PER	-	shacharmirkin
-15	נור	I-PER	-	shacharmirkin
+13	דרור	B-PER	-	shachar
+14	בר	I-PER	-	shachar
+15	נור	I-PER	-	shachar
 16	לאור	O	-	-
 17	מצב_	O	-	-
 18	_של_	O	-	-
@@ -1035,8 +1035,8 @@
 4	ה	O	-	-
 5	מו"ם	O	-	-
 6	עם	O	-	-
-7	אופיר	B-PER	-	shacharmirkin
-8	שמואלי	I-PER	-	shacharmirkin
+7	אופיר	B-PER	-	shachar
+8	שמואלי	I-PER	-	shachar
 9	עד	O	-	-
 10	סוף	O	-	-
 11	ה	O	-	-
@@ -1069,8 +1069,8 @@
 # text = ה מאמן זאב זלצר לא יכול היה להעריך, כמה זמן ידרש ל שחקן עד ש יחזור ל כושר משחק.
 1	ה	O	-	-
 2	מאמן	O	-	-
-3	זאב	B-PER	-	shacharmirkin
-4	זלצר	I-PER	-	shacharmirkin
+3	זאב	B-PER	-	shachar
+4	זלצר	I-PER	-	shachar
 5	לא	O	-	-
 6	יכול	O	-	-
 7	היה	O	-	-
@@ -1115,26 +1115,26 @@
 22	מאמן	O	-	-
 23	ה	O	-	-
 24	לאומי	O	-	-
-25	יעקב	B-PER	-	shacharmirkin
-26	גרונדמן	I-PER	-	shacharmirkin
+25	יעקב	B-PER	-	shachar
+26	גרונדמן	I-PER	-	shachar
 27	,	O	-	-
 28	ב	O	-	-
 29	דיון	O	-	-
 30	על	O	-	-
-31	ה	B-ORG	-	shacharmirkin
-32	נבחרת	I-ORG	-	shacharmirkin
-33	ה	I-ORG	-	shacharmirkin
-34	אולימפית	I-ORG	-	shacharmirkin
+31	ה	B-ORG	-	shachar
+32	נבחרת	I-ORG	-	shachar
+33	ה	I-ORG	-	shachar
+34	אולימפית	I-ORG	-	shachar
 35	ב	O	-	-
 36	ה_	O	-	-
 37	ועדה	O	-	-
 38	ה	O	-	-
 39	מקצועית	O	-	-
 40	של	O	-	-
-41	ה	B-ORG	-	shacharmirkin
-42	התאחדות	I-ORG	-	shacharmirkin
-43	ל	I-ORG	-	shacharmirkin
-44	כדורגל	I-ORG	-	shacharmirkin
+41	ה	B-ORG	-	shachar
+42	התאחדות	I-ORG	-	shachar
+43	ל	I-ORG	-	shachar
+44	כדורגל	I-ORG	-	shachar
 45	.	O	-	-
 
 # sent_id = batch-0001-0023
@@ -1167,7 +1167,7 @@
 26	ה	O	-	-
 27	בא	O	-	-
 28	ב	O	-	-
-29	יוון	B-LOC	-	shacharmirkin
+29	יוון	B-LOC	-	shachar
 30	(	O	-	-
 31	21	O	-	-
 32	ב	O	-	-
@@ -1178,7 +1178,7 @@
 37	ה	O	-	-
 38	ראשון	O	-	-
 39	של	O	-	-
-40	ישראל	B-ORG	-	shacharmirkin
+40	ישראל	B-ORG	-	shachar
 41	ב	O	-	-
 42	ה_	O	-	-
 43	טורניר	O	-	-
@@ -1204,15 +1204,15 @@
 13	2	O	-	-
 14	6	O	-	-
 15	ב	O	-	-
-16	ברית	B-LOC	-	shacharmirkin
-17	ה	I-LOC	-	shacharmirkin
-18	מועצות	I-LOC	-	shacharmirkin
+16	ברית	B-LOC	-	shachar
+17	ה	I-LOC	-	shachar
+18	מועצות	I-LOC	-	shachar
 19	ו	O	-	-
 20	-	O	-	-
 21	1	O	-	-
 22	5	O	-	-
 23	ב	O	-	-
-24	צכיה	B-LOC	-	shacharmirkin
+24	צכיה	B-LOC	-	shachar
 25	ו	O	-	-
 26	ל	O	-	-
 27	ה_	O	-	-
@@ -1228,18 +1228,18 @@
 37	ב_	O	-	-
 38	_הוא	O	-	-
 39	ניצחה	O	-	-
-40	ישראל	B-ORG	-	shacharmirkin
+40	ישראל	B-ORG	-	shachar
 41	1	O	-	-
 42	3	O	-	-
 43	את	O	-	-
-44	פולין	B-ORG	-	shacharmirkin
+44	פולין	B-ORG	-	shachar
 45	ב	O	-	-
-46	אשדוד	B-LOC	-	shacharmirkin
+46	אשדוד	B-LOC	-	shachar
 47	.	O	-	-
 
 # sent_id = batch-0001-0025
 # text = גרונדמן שב ו אמר , כי ל ה_ כדורגל ה ישראלי בעיה עקרונית.
-1	גרונדמן	B-PER	-	shacharmirkin
+1	גרונדמן	B-PER	-	shachar
 2	שב	O	-	-
 3	ו	O	-	-
 4	אמר	O	-	-
@@ -1257,10 +1257,10 @@
 # sent_id = batch-0001-0026
 # text = "ה נבחרת ה אולימפית הוכנה כ ה_ ראוי , אך ל ה_ כדורגל ה ישראלי יש בעיות כלליות.
 1	"	O	-	-
-2	ה	B-ORG	-	shacharmirkin
-3	נבחרת	I-ORG	-	shacharmirkin
-4	ה	I-ORG	-	shacharmirkin
-5	אולימפית	I-ORG	-	shacharmirkin
+2	ה	B-ORG	-	shachar
+3	נבחרת	I-ORG	-	shachar
+4	ה	I-ORG	-	shachar
+5	אולימפית	I-ORG	-	shachar
 6	הוכנה	O	-	-
 7	כ	O	-	-
 8	ה_	O	-	-
@@ -1324,7 +1324,7 @@
 1	ה	O	-	-
 2	ניצחון	O	-	-
 3	על	O	-	-
-4	פולין	B-ORG	-	shacharmirkin
+4	פולין	B-ORG	-	shachar
 5	החזיר	O	-	-
 6	ל_	O	-	-
 7	_אנחנו	O	-	-
@@ -1346,7 +1346,7 @@
 3	תוצאה	O	-	-
 4	טובה	O	-	-
 5	ב	O	-	-
-6	יוון	B-LOC	-	shacharmirkin
+6	יוון	B-LOC	-	shachar
 7	יהיה	O	-	-
 8	ל_	O	-	-
 9	_אנחנו	O	-	-
@@ -1389,8 +1389,8 @@
 3	הנהלת	O	-	-
 4	ה	O	-	-
 5	התאחדות	O	-	-
-6	עזריקם	B-PER	-	shacharmirkin
-7	מילצן	I-PER	-	shacharmirkin
+6	עזריקם	B-PER	-	shachar
+7	מילצן	I-PER	-	shachar
 8	שאל	O	-	-
 9	מדוע	O	-	-
 10	נוצחנו	O	-	-
@@ -1425,8 +1425,8 @@
 
 # sent_id = batch-0002-0005
 # text = דוד לויאן אמר ש שום נבחרת של_ _אנחנו לא ניצחה ב טמפרטורה של מינוס אפס ו לא הצליחה ב קור .
-1	דוד	B-PER	-	shacharmirkin
-2	לויאן	I-PER	-	shacharmirkin
+1	דוד	B-PER	-	shachar
+2	לויאן	I-PER	-	shachar
 3	אמר	O	-	-
 4	ש	O	-	-
 5	שום	O	-	-
@@ -1452,8 +1452,8 @@
 1	גזבר	O	-	-
 2	ה	O	-	-
 3	התאחדות	O	-	-
-4	שלמה	B-PER	-	shacharmirkin
-5	סופר	I-PER	-	shacharmirkin
+4	שלמה	B-PER	-	shachar
+5	סופר	I-PER	-	shachar
 6	קרא	O	-	-
 7	לתת	O	-	-
 8	כתף	O	-	-
@@ -1464,12 +1464,12 @@
 13	הזכיר	O	-	-
 14	ש	O	-	-
 15	אפילו	O	-	-
-16	יוון	B-ORG	-	shacharmirkin
+16	יוון	B-ORG	-	shachar
 17	נכנעה	O	-	-
 18	0	O	-	-
 19	5	O	-	-
 20	ב	O	-	-
-21	שוודיה	B-LOC	-	shacharmirkin
+21	שוודיה	B-LOC	-	shachar
 22	.	O	-	-
 
 # sent_id = batch-0002-0007
@@ -1477,11 +1477,11 @@
 1	מנהל	O	-	-
 2	ה	O	-	-
 3	התאחדות	O	-	-
-4	יעקב	B-PER	-	shacharmirkin
-5	אראל	I-PER	-	shacharmirkin
+4	יעקב	B-PER	-	shachar
+5	אראל	I-PER	-	shachar
 6	אמר	O	-	-
 7	ש	O	-	-
-8	ישראל	B-LOC	-	shacharmirkin
+8	ישראל	B-LOC	-	shachar
 9	היא	O	-	-
 10	מדינה	O	-	-
 11	קטנה	O	-	-
@@ -1508,7 +1508,7 @@
 9	ארבעה	O	-	-
 10	מיליון	O	-	-
 11	ב	O	-	-
-12	גרמניה	B-LOC	-	shacharmirkin
+12	גרמניה	B-LOC	-	shachar
 13	.	O	-	-
 
 # sent_id = batch-0002-0009
@@ -1525,9 +1525,9 @@
 10	של	O	-	-
 11	מדינות	O	-	-
 12	כמו	O	-	-
-13	פינלנד	B-ORG	-	shacharmirkin
+13	פינלנד	B-ORG	-	shachar
 14	,	O	-	-
-15	איסלנד	B-ORG	-	shacharmirkin
+15	איסלנד	B-ORG	-	shachar
 16	ו	O	-	-
 17	רק	O	-	-
 18	אחרי	O	-	-
@@ -1549,8 +1549,8 @@
 2	ועדת	O	-	-
 3	ה	O	-	-
 4	נוער	O	-	-
-5	נתן	B-PER	-	shacharmirkin
-6	סלובטיק	I-PER	-	shacharmirkin
+5	נתן	B-PER	-	shachar
+6	סלובטיק	I-PER	-	shachar
 7	אמר	O	-	-
 8	ש	O	-	-
 9	ה	O	-	-
@@ -1560,14 +1560,14 @@
 13	לא	O	-	-
 14	משתלבים	O	-	-
 15	ב	O	-	-
-16	אירופה	B-LOC	-	shacharmirkin
+16	אירופה	B-LOC	-	shachar
 17	.	O	-	-
 
 # sent_id = batch-0002-0011
 # text = ארצי בן יעקב הציע לתת גיבוי ל ה_ מאמנים לפני ה משימה ה חשובה .
-1	ארצי	B-PER	-	shacharmirkin
-2	בן	I-PER	-	shacharmirkin
-3	יעקב	I-PER	-	shacharmirkin
+1	ארצי	B-PER	-	shachar
+2	בן	I-PER	-	shachar
+3	יעקב	I-PER	-	shachar
 4	הציע	O	-	-
 5	לתת	O	-	-
 6	גיבוי	O	-	-
@@ -1609,14 +1609,14 @@
 6	מישחק	O	-	-
 7	אימון	O	-	-
 8	עם	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	פועל	I-ORG	-	shacharmirkin
-11	חדרה	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	פועל	I-ORG	-	shachar
+11	חדרה	I-ORG	-	shachar
 12	מ	O	-	-
-13	ה	B-ORG	-	shacharmirkin
-14	ליגה	I-ORG	-	shacharmirkin
-15	ה	I-ORG	-	shacharmirkin
-16	ארצית	I-ORG	-	shacharmirkin
+13	ה	B-ORG	-	shachar
+14	ליגה	I-ORG	-	shachar
+15	ה	I-ORG	-	shachar
+16	ארצית	I-ORG	-	shachar
 17	.	O	-	-
 
 # sent_id = batch-0002-0014
@@ -1643,7 +1643,7 @@
 20	ה	O	-	-
 21	נבחרת	O	-	-
 22	ב	O	-	-
-23	יוון	B-LOC	-	shacharmirkin
+23	יוון	B-LOC	-	shachar
 24	.	O	-	-
 
 # sent_id = batch-0002-0015
@@ -1659,8 +1659,8 @@
 9	ה	O	-	-
 10	כדורסל	O	-	-
 11	של	O	-	-
-12	קבוץ	B-LOC	-	shacharmirkin
-13	גבת	I-LOC	-	shacharmirkin
+12	קבוץ	B-LOC	-	shachar
+13	גבת	I-LOC	-	shachar
 14	.	O	-	-
 
 # sent_id = batch-0002-0016
@@ -1672,19 +1672,19 @@
 5	ניצח	O	-	-
 6	ה	O	-	-
 7	אלוף	O	-	-
-8	מכבי	B-ORG	-	shacharmirkin
-9	תל	I-ORG	-	shacharmirkin
-10	אביב	I-ORG	-	shacharmirkin
+8	מכבי	B-ORG	-	shachar
+9	תל	I-ORG	-	shachar
+10	אביב	I-ORG	-	shachar
 11	את	O	-	-
 12	ה	O	-	-
 13	עולה	O	-	-
 14	ה	O	-	-
 15	חדש	O	-	-
-16	ה	B-ORG	-	shacharmirkin
-17	פועל	I-ORG	-	shacharmirkin
-18	גבת	I-ORG	-	shacharmirkin
-19	ה	I-ORG	-	shacharmirkin
-20	עמק	I-ORG	-	shacharmirkin
+16	ה	B-ORG	-	shachar
+17	פועל	I-ORG	-	shachar
+18	גבת	I-ORG	-	shachar
+19	ה	I-ORG	-	shachar
+20	עמק	I-ORG	-	shachar
 21	111	O	-	-
 22	110	O	-	-
 23	.	O	-	-
@@ -1718,15 +1718,15 @@
 3	לראות	O	-	-
 4	אמש	O	-	-
 5	את	O	-	-
-6	בועז	B-PER	-	shacharmirkin
-7	ינאי	I-PER	-	shacharmirkin
+6	בועז	B-PER	-	shachar
+7	ינאי	I-PER	-	shachar
 8	,	O	-	-
 9	מאמן	O	-	-
-10	ה	B-ORG	-	shacharmirkin
-11	פועל	I-ORG	-	shacharmirkin
-12	גבת	I-ORG	-	shacharmirkin
-13	ה	I-ORG	-	shacharmirkin
-14	עמק	I-ORG	-	shacharmirkin
+10	ה	B-ORG	-	shachar
+11	פועל	I-ORG	-	shachar
+12	גבת	I-ORG	-	shachar
+13	ה	I-ORG	-	shachar
+14	עמק	I-ORG	-	shachar
 15	,	O	-	-
 16	יושב	O	-	-
 17	ב	O	-	-
@@ -1763,9 +1763,9 @@
 2	נגד	O	-	-
 3	,	O	-	-
 4	שחקני	O	-	-
-5	מכבי	B-ORG	-	shacharmirkin
-6	תל	I-ORG	-	shacharmirkin
-7	אביב	I-ORG	-	shacharmirkin
+5	מכבי	B-ORG	-	shachar
+6	תל	I-ORG	-	shachar
+7	אביב	I-ORG	-	shachar
 8	ו	O	-	-
 9	הנהלת	O	-	-
 10	מ	O	-	-
@@ -1796,11 +1796,11 @@
 35	ה	O	-	-
 36	התמודדות	O	-	-
 37	בין	O	-	-
-38	מכבי	B-ORG	-	shacharmirkin
+38	מכבי	B-ORG	-	shachar
 39	ל	O	-	-
-40	ה	B-ORG	-	shacharmirkin
-41	פועל	I-ORG	-	shacharmirkin
-42	עפולה	I-ORG	-	shacharmirkin
+40	ה	B-ORG	-	shachar
+41	פועל	I-ORG	-	shachar
+42	עפולה	I-ORG	-	shachar
 43	.	O	-	-
 
 # sent_id = batch-0002-0020
@@ -1830,7 +1830,7 @@
 13	שמחה	O	-	-
 14	היו	O	-	-
 15	אוהדי	O	-	-
-16	עפולה	B-ORG	-	shacharmirkin
+16	עפולה	B-ORG	-	shachar
 17	.	O	-	-
 
 # sent_id = batch-0002-0022
@@ -1840,11 +1840,11 @@
 3	היה	O	-	-
 4	לבסוף	O	-	-
 5	של	O	-	-
-6	מכבי	B-ORG	-	shacharmirkin
+6	מכבי	B-ORG	-	shachar
 7	,	O	-	-
 8	אולם	O	-	-
 9	שחקני	O	-	-
-10	גבת	B-ORG	-	shacharmirkin
+10	גבת	B-ORG	-	shachar
 11	הם	O	-	-
 12	ה	O	-	-
 13	ראויים	O	-	-
@@ -1854,11 +1854,11 @@
 
 # sent_id = batch-0002-0023
 # text = ארי רוזנברג ו קאלווין רוברטס היו כוכבי ה משחק .
-1	ארי	B-PER	-	shacharmirkin
-2	רוזנברג	I-PER	-	shacharmirkin
+1	ארי	B-PER	-	shachar
+2	רוזנברג	I-PER	-	shachar
 3	ו	O	-	-
-4	קאלווין	B-PER	-	shacharmirkin
-5	רוברטס	I-PER	-	shacharmirkin
+4	קאלווין	B-PER	-	shachar
+5	רוברטס	I-PER	-	shachar
 6	היו	O	-	-
 7	כוכבי	O	-	-
 8	ה	O	-	-
@@ -1867,7 +1867,7 @@
 
 # sent_id = batch-0002-0024
 # text = ארי קלע 43 נקודות (שיא אישי) ו רוברטס צבר 39 נקודות ו-12 כדורים חוזרים מ ה סל .
-1	ארי	B-PER	-	shacharmirkin
+1	ארי	B-PER	-	shachar
 2	קלע	O	-	-
 3	43	O	-	-
 4	נקודות	O	-	-
@@ -1876,7 +1876,7 @@
 7	אישי	O	-	-
 8	)	O	-	-
 9	ו	O	-	-
-10	רוברטס	B-PER	-	shacharmirkin
+10	רוברטס	B-PER	-	shachar
 11	צבר	O	-	-
 12	39	O	-	-
 13	נקודות	O	-	-
@@ -1893,8 +1893,8 @@
 # sent_id = batch-0002-0025
 # text = שחקני ה עמק ה אחרים שיחקו עם כל ה לב ו לא היה רחוקים מ להפתיע את חניך_ _של_ _הוא של צבי שרף.
 1	שחקני	O	-	-
-2	ה	B-ORG	-	shacharmirkin
-3	עמק	I-ORG	-	shacharmirkin
+2	ה	B-ORG	-	shachar
+3	עמק	I-ORG	-	shachar
 4	ה	O	-	-
 5	אחרים	O	-	-
 6	שיחקו	O	-	-
@@ -1913,15 +1913,15 @@
 19	_של_	O	-	-
 20	_הוא	O	-	-
 21	של	O	-	-
-22	צבי	B-PER	-	shacharmirkin
-23	שרף	I-PER	-	shacharmirkin
+22	צבי	B-PER	-	shachar
+23	שרף	I-PER	-	shachar
 24	.	O	-	-
 
 # sent_id = batch-0002-0026
 # text = שחקני תל אביב הראו רק שמץ מ יכולת_ _של_ _הם .
 1	שחקני	O	-	-
-2	תל	B-ORG	-	shacharmirkin
-3	אביב	I-ORG	-	shacharmirkin
+2	תל	B-ORG	-	shachar
+3	אביב	I-ORG	-	shachar
 4	הראו	O	-	-
 5	רק	O	-	-
 6	שמץ	O	-	-
@@ -1934,18 +1934,18 @@
 # sent_id = batch-0002-0027
 # text = למעט מוטי דניאל ו לאוון מרסר, ו ל פרקים גם דונאלד רויאל, היו כל ה יתר חלשים מאוד לרבות שחקני ה נבחרת דורון גמצי, נדב הנפלד ו גיא גודס.
 1	למעט	O	-	-
-2	מוטי	B-PER	-	shacharmirkin
-3	דניאל	I-PER	-	shacharmirkin
+2	מוטי	B-PER	-	shachar
+3	דניאל	I-PER	-	shachar
 4	ו	O	-	-
-5	לאוון	B-PER	-	shacharmirkin
-6	מרסר	I-PER	-	shacharmirkin
+5	לאוון	B-PER	-	shachar
+6	מרסר	I-PER	-	shachar
 7	,	O	-	-
 8	ו	O	-	-
 9	ל	O	-	-
 10	פרקים	O	-	-
 11	גם	O	-	-
-12	דונאלד	B-PER	-	shacharmirkin
-13	רויאל	I-PER	-	shacharmirkin
+12	דונאלד	B-PER	-	shachar
+13	רויאל	I-PER	-	shachar
 14	,	O	-	-
 15	היו	O	-	-
 16	כל	O	-	-
@@ -1957,14 +1957,14 @@
 22	שחקני	O	-	-
 23	ה	O	-	-
 24	נבחרת	O	-	-
-25	דורון	B-PER	-	shacharmirkin
-26	גמצי	I-PER	-	shacharmirkin
+25	דורון	B-PER	-	shachar
+26	גמצי	I-PER	-	shachar
 27	,	O	-	-
-28	נדב	B-PER	-	shacharmirkin
-29	הנפלד	I-PER	-	shacharmirkin
+28	נדב	B-PER	-	shachar
+29	הנפלד	I-PER	-	shachar
 30	ו	O	-	-
-31	גיא	B-PER	-	shacharmirkin
-32	גודס	I-PER	-	shacharmirkin
+31	גיא	B-PER	-	shachar
+32	גודס	I-PER	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0002-0028
@@ -1980,13 +1980,13 @@
 9	צמוד	O	-	-
 10	,	O	-	-
 11	כאשר	O	-	-
-12	תל	B-ORG	-	shacharmirkin
-13	אביב	I-ORG	-	shacharmirkin
+12	תל	B-ORG	-	shachar
+13	אביב	I-ORG	-	shachar
 14	אינה	O	-	-
 15	מצליחה	O	-	-
 16	לברוח	O	-	-
 17	מ	O	-	-
-18	גבת	B-ORG	-	shacharmirkin
+18	גבת	B-ORG	-	shachar
 19	.	O	-	-
 
 # sent_id = batch-0002-0029
@@ -1996,7 +1996,7 @@
 3	ה	O	-	-
 4	גבוה	O	-	-
 5	של	O	-	-
-6	מכבי	B-ORG	-	shacharmirkin
+6	מכבי	B-ORG	-	shachar
 7	ב	O	-	-
 8	מחצית	O	-	-
 9	זו	O	-	-
@@ -2027,7 +2027,7 @@
 6	היה	O	-	-
 7	סביר	O	-	-
 8	כי	O	-	-
-9	מכבי	B-ORG	-	shacharmirkin
+9	מכבי	B-ORG	-	shachar
 10	,	O	-	-
 11	ש	O	-	-
 12	החליף	O	-	-
@@ -2055,7 +2055,7 @@
 2	שמירה	O	-	-
 3	מצוינת	O	-	-
 4	של	O	-	-
-5	רוברטס	B-PER	-	shacharmirkin
+5	רוברטס	B-PER	-	shachar
 6	ו	O	-	-
 7	ניר	O	-	-
 8	אלון	O	-	-
@@ -2087,8 +2087,8 @@
 
 # sent_id = batch-0003-0003
 # text = ניר אלון חטף כדור, רץ לבדו ל ה_ סל ו נבלם ב עבירה .
-1	ניר	B-PER	-	shacharmirkin
-2	אלון	I-PER	-	shacharmirkin
+1	ניר	B-PER	-	shachar
+2	אלון	I-PER	-	shachar
 3	חטף	O	-	-
 4	כדור	O	-	-
 5	,	O	-	-
@@ -2118,7 +2118,7 @@
 
 # sent_id = batch-0003-0005
 # text = מכבי איבד את ה כדור פעם נוספת ו ארי רוזנברג, שתי שניות ל סיום ה משחק , עלה לקלוע מ טווח שלוש נקודות.
-1	מכבי	B-ORG	-	shacharmirkin
+1	מכבי	B-ORG	-	shachar
 2	איבד	O	-	-
 3	את	O	-	-
 4	ה	O	-	-
@@ -2126,8 +2126,8 @@
 6	פעם	O	-	-
 7	נוספת	O	-	-
 8	ו	O	-	-
-9	ארי	B-PER	-	shacharmirkin
-10	רוזנברג	I-PER	-	shacharmirkin
+9	ארי	B-PER	-	shachar
+10	רוזנברג	I-PER	-	shachar
 11	,	O	-	-
 12	שתי	O	-	-
 13	שניות	O	-	-
@@ -2169,7 +2169,7 @@
 
 # sent_id = batch-0003-0008
 # text = ארי זרק שלוש פעמים מ קו ה עונשין ו קלע רק שתיים 85 83 ל גבת .
-1	ארי	B-PER	-	shacharmirkin
+1	ארי	B-PER	-	shachar
 2	זרק	O	-	-
 3	שלוש	O	-	-
 4	פעמים	O	-	-
@@ -2184,7 +2184,7 @@
 13	85	O	-	-
 14	83	O	-	-
 15	ל	O	-	-
-16	גבת	B-ORG	-	shacharmirkin
+16	גבת	B-ORG	-	shachar
 17	.	O	-	-
 
 # sent_id = batch-0003-0009
@@ -2198,11 +2198,11 @@
 # sent_id = batch-0003-0010
 # text = שחקני גבת לחצו ו מוטי דניאל קיבל את ה כדור מתחת ל סל גבת ו הישווה ל-8585 8585.
 1	שחקני	O	-	-
-2	גבת	B-ORG	-	shacharmirkin
+2	גבת	B-ORG	-	shachar
 3	לחצו	O	-	-
 4	ו	O	-	-
-5	מוטי	B-PER	-	shacharmirkin
-6	דניאל	I-PER	-	shacharmirkin
+5	מוטי	B-PER	-	shachar
+6	דניאל	I-PER	-	shachar
 7	קיבל	O	-	-
 8	את	O	-	-
 9	ה	O	-	-
@@ -2210,7 +2210,7 @@
 11	מתחת	O	-	-
 12	ל	O	-	-
 13	סל	O	-	-
-14	גבת	B-ORG	-	shacharmirkin
+14	גבת	B-ORG	-	shachar
 15	ו	O	-	-
 16	הישווה	O	-	-
 17	ל	O	-	-
@@ -2239,7 +2239,7 @@
 
 # sent_id = batch-0003-0013
 # text = מכבי מוביל לקראת סיום ה הארכה ב שתי נקודות, ו שוב היה זה רוזנברג ש קלע שתי נקודות (97 97) ש שלחו את ה קבוצות ל הארכה נוספת.
-1	מכבי	B-ORG	-	shacharmirkin
+1	מכבי	B-ORG	-	shachar
 2	מוביל	O	-	-
 3	לקראת	O	-	-
 4	סיום	O	-	-
@@ -2253,7 +2253,7 @@
 12	שוב	O	-	-
 13	היה	O	-	-
 14	זה	O	-	-
-15	רוזנברג	B-PER	-	shacharmirkin
+15	רוזנברג	B-PER	-	shachar
 16	ש	O	-	-
 17	קלע	O	-	-
 18	שתי	O	-	-
@@ -2275,7 +2275,7 @@
 # sent_id = batch-0003-0014
 # text = שחקני גבת, ש שיחקו כמעט לאורך כל ה התמודדות ה קשה , עם אותה חמישיה רוברטס, מזרחי רוזנברג, להב ו ניר אלון החלו את ה הארכה ה שניה ב אפיסת כוחות, כמעט.
 1	שחקני	O	-	-
-2	גבת	B-ORG	-	shacharmirkin
+2	גבת	B-ORG	-	shachar
 3	,	O	-	-
 4	ש	O	-	-
 5	שיחקו	O	-	-
@@ -2290,15 +2290,15 @@
 14	עם	O	-	-
 15	אותה	O	-	-
 16	חמישיה	O	-	-
-17	רוברטס	B-PER	-	shacharmirkin
+17	רוברטס	B-PER	-	shachar
 18	,	O	-	-
-19	מזרחי	B-PER	-	shacharmirkin
-20	רוזנברג	B-PER	-	shacharmirkin
+19	מזרחי	B-PER	-	shachar
+20	רוזנברג	B-PER	-	shachar
 21	,	O	-	-
-22	להב	B-PER	-	shacharmirkin
+22	להב	B-PER	-	shachar
 23	ו	O	-	-
-24	ניר	B-PER	-	shacharmirkin
-25	אלון	I-PER	-	shacharmirkin
+24	ניר	B-PER	-	shachar
+25	אלון	I-PER	-	shachar
 26	החלו	O	-	-
 27	את	O	-	-
 28	ה	O	-	-
@@ -2315,7 +2315,7 @@
 # sent_id = batch-0003-0015
 # text = שחקני מכבי ניצלו את ה חולשה ה פיזית של יריב_ _של_ _הם ו את חוסר ביטחון_ _של_ _הם .
 1	שחקני	O	-	-
-2	מכבי	B-ORG	-	shacharmirkin
+2	מכבי	B-ORG	-	shachar
 3	ניצלו	O	-	-
 4	את	O	-	-
 5	ה	O	-	-
@@ -2346,7 +2346,7 @@
 8	48	O	-	-
 9	)	O	-	-
 10	עלה	O	-	-
-11	מכבי	B-ORG	-	shacharmirkin
+11	מכבי	B-ORG	-	shachar
 12	ל	O	-	-
 13	יתרון	O	-	-
 14	3	O	-	-
@@ -2354,7 +2354,7 @@
 16	מ	O	-	-
 17	סל	O	-	-
 18	של	O	-	-
-19	גמצי	B-PER	-	shacharmirkin
+19	גמצי	B-PER	-	shachar
 20	מ	O	-	-
 21	חוץ	O	-	-
 22	ל	O	-	-
@@ -2368,7 +2368,7 @@
 
 # sent_id = batch-0003-0017
 # text = גבת עוד ניסתה לשנות, אבל לא יותר מאשר לצמצם עם ה שריקה ל-111 110.
-1	גבת	B-ORG	-	shacharmirkin
+1	גבת	B-ORG	-	shachar
 2	עוד	O	-	-
 3	ניסתה	O	-	-
 4	לשנות	O	-	-
@@ -2393,26 +2393,26 @@
 2	מצויין	O	-	-
 3	ה	O	-	-
 4	צעירים	O	-	-
-5	דן	B-PER	-	shacharmirkin
-6	בורנשטיין	I-PER	-	shacharmirkin
+5	דן	B-PER	-	shachar
+6	בורנשטיין	I-PER	-	shachar
 7	ו	O	-	-
-8	גוזף	B-PER	-	shacharmirkin
-9	עליני	I-PER	-	shacharmirkin
+8	גוזף	B-PER	-	shachar
+9	עליני	I-PER	-	shachar
 10	.	O	-	-
 
 # sent_id = batch-0003-0019
 # text = יו"ר ועדת ה ספורט של ה כנסת , ח"כ מיכה גולדמן, ביקש לזמן למחר דיון ב ה_ ועדה על רקע ה אירועים ה אחרונים ה נוגעים ל מערכת ה יחסים בין קבוצות ספורט יהודיות ו ערביות .
 1	יו"ר	O	-	-
-2	ועדת	B-ORG	-	shacharmirkin
-3	ה	I-ORG	-	shacharmirkin
-4	ספורט	I-ORG	-	shacharmirkin
-5	של	I-ORG	-	shacharmirkin
-6	ה	I-ORG	-	shacharmirkin
-7	כנסת	I-ORG	-	shacharmirkin
+2	ועדת	B-ORG	-	shachar
+3	ה	I-ORG	-	shachar
+4	ספורט	I-ORG	-	shachar
+5	של	I-ORG	-	shachar
+6	ה	I-ORG	-	shachar
+7	כנסת	I-ORG	-	shachar
 8	,	O	-	-
 9	ח"כ	O	-	-
-10	מיכה	B-PER	-	shacharmirkin
-11	גולדמן	I-PER	-	shacharmirkin
+10	מיכה	B-PER	-	shachar
+11	גולדמן	I-PER	-	shachar
 12	,	O	-	-
 13	ביקש	O	-	-
 14	לזמן	O	-	-
@@ -2444,7 +2444,7 @@
 # sent_id = batch-0003-0020
 # text = ח"כ גולדמן הזכיר את פרשת ה משחק ש נדחה בין ה פועל בית שאן ל ה פועל אום אל פאחם, ו את תקיפת נערי מכבי אור עקיבא, אחרי משחק ה ליגה ב שבת עם נערי ה פועל טייבה.
 1	ח"כ	O	-	-
-2	גולדמן	B-PER	-	shacharmirkin
+2	גולדמן	B-PER	-	shachar
 3	הזכיר	O	-	-
 4	את	O	-	-
 5	פרשת	O	-	-
@@ -2453,24 +2453,24 @@
 8	ש	O	-	-
 9	נדחה	O	-	-
 10	בין	O	-	-
-11	ה	B-ORG	-	shacharmirkin
-12	פועל	I-ORG	-	shacharmirkin
-13	בית	I-ORG	-	shacharmirkin
-14	שאן	I-ORG	-	shacharmirkin
+11	ה	B-ORG	-	shachar
+12	פועל	I-ORG	-	shachar
+13	בית	I-ORG	-	shachar
+14	שאן	I-ORG	-	shachar
 15	ל	O	-	-
-16	ה	B-ORG	-	shacharmirkin
-17	פועל	I-ORG	-	shacharmirkin
-18	אום	I-ORG	-	shacharmirkin
-19	אל	I-ORG	-	shacharmirkin
-20	פאחם	I-ORG	-	shacharmirkin
+16	ה	B-ORG	-	shachar
+17	פועל	I-ORG	-	shachar
+18	אום	I-ORG	-	shachar
+19	אל	I-ORG	-	shachar
+20	פאחם	I-ORG	-	shachar
 21	,	O	-	-
 22	ו	O	-	-
 23	את	O	-	-
 24	תקיפת	O	-	-
 25	נערי	O	-	-
-26	מכבי	B-ORG	-	shacharmirkin
-27	אור	I-ORG	-	shacharmirkin
-28	עקיבא	I-ORG	-	shacharmirkin
+26	מכבי	B-ORG	-	shachar
+27	אור	I-ORG	-	shachar
+28	עקיבא	I-ORG	-	shachar
 29	,	O	-	-
 30	אחרי	O	-	-
 31	משחק	O	-	-
@@ -2480,22 +2480,22 @@
 35	שבת	O	-	-
 36	עם	O	-	-
 37	נערי	O	-	-
-38	ה	B-ORG	-	shacharmirkin
-39	פועל	I-ORG	-	shacharmirkin
-40	טייבה	I-ORG	-	shacharmirkin
+38	ה	B-ORG	-	shachar
+39	פועל	I-ORG	-	shachar
+40	טייבה	I-ORG	-	shachar
 41	.	O	-	-
 
 # sent_id = batch-0003-0021
 # text = ח"כ גולדמן הזכיר גם את החלטת איגוד ה כדורסל לא לקיים ב ישובים ערביים משחקים בין קבוצות מקומיות ל קבוצות יהודיות, על רקע ה מתח ה בטחוני .
 1	ח"כ	O	-	-
-2	גולדמן	B-PER	-	shacharmirkin
+2	גולדמן	B-PER	-	shachar
 3	הזכיר	O	-	-
 4	גם	O	-	-
 5	את	O	-	-
 6	החלטת	O	-	-
-7	איגוד	B-ORG	-	shacharmirkin
-8	ה	I-ORG	-	shacharmirkin
-9	כדורסל	I-ORG	-	shacharmirkin
+7	איגוד	B-ORG	-	shachar
+8	ה	I-ORG	-	shachar
+9	כדורסל	I-ORG	-	shachar
 10	לא	O	-	-
 11	לקיים	O	-	-
 12	ב	O	-	-
@@ -2520,9 +2520,9 @@
 # sent_id = batch-0003-0022
 # text = יו"ר וועדת ה ספורט יזמן ל ה_ דיון מחר את יו"ר הנהלת ה התאחדות ל כדורגל שאול סווירי, יו"ר איגוד ה כדורסל יורם אוברקוביץ, נציגי מרכזי ה ספורט , יו"ר איגוד שופטי ה כדורגל אברהם קליין, יועץ ראש ה ממשלה ל ענייני ערבים אלכס בליי ו נציג ה משטרה .
 1	יו"ר	O	-	-
-2	וועדת	B-ORG	-	shacharmirkin
-3	ה	I-ORG	-	shacharmirkin
-4	ספורט	I-ORG	-	shacharmirkin
+2	וועדת	B-ORG	-	shachar
+3	ה	I-ORG	-	shachar
+4	ספורט	I-ORG	-	shachar
 5	יזמן	O	-	-
 6	ל	O	-	-
 7	ה_	O	-	-
@@ -2531,19 +2531,19 @@
 10	את	O	-	-
 11	יו"ר	O	-	-
 12	הנהלת	O	-	-
-13	ה	B-ORG	-	shacharmirkin
-14	התאחדות	I-ORG	-	shacharmirkin
-15	ל	I-ORG	-	shacharmirkin
-16	כדורגל	I-ORG	-	shacharmirkin
-17	שאול	B-PER	-	shacharmirkin
-18	סווירי	I-PER	-	shacharmirkin
+13	ה	B-ORG	-	shachar
+14	התאחדות	I-ORG	-	shachar
+15	ל	I-ORG	-	shachar
+16	כדורגל	I-ORG	-	shachar
+17	שאול	B-PER	-	shachar
+18	סווירי	I-PER	-	shachar
 19	,	O	-	-
 20	יו"ר	O	-	-
-21	איגוד	B-ORG	-	shacharmirkin
-22	ה	I-ORG	-	shacharmirkin
-23	כדורסל	I-ORG	-	shacharmirkin
-24	יורם	B-PER	-	shacharmirkin
-25	אוברקוביץ	I-PER	-	shacharmirkin
+21	איגוד	B-ORG	-	shachar
+22	ה	I-ORG	-	shachar
+23	כדורסל	I-ORG	-	shachar
+24	יורם	B-PER	-	shachar
+25	אוברקוביץ	I-PER	-	shachar
 26	,	O	-	-
 27	נציגי	O	-	-
 28	מרכזי	O	-	-
@@ -2551,12 +2551,12 @@
 30	ספורט	O	-	-
 31	,	O	-	-
 32	יו"ר	O	-	-
-33	איגוד	B-ORG	-	shacharmirkin
-34	שופטי	I-ORG	-	shacharmirkin
-35	ה	I-ORG	-	shacharmirkin
-36	כדורגל	I-ORG	-	shacharmirkin
-37	אברהם	B-PER	-	shacharmirkin
-38	קליין	I-PER	-	shacharmirkin
+33	איגוד	B-ORG	-	shachar
+34	שופטי	I-ORG	-	shachar
+35	ה	I-ORG	-	shachar
+36	כדורגל	I-ORG	-	shachar
+37	אברהם	B-PER	-	shachar
+38	קליין	I-PER	-	shachar
 39	,	O	-	-
 40	יועץ	O	-	-
 41	ראש	O	-	-
@@ -2565,8 +2565,8 @@
 44	ל	O	-	-
 45	ענייני	O	-	-
 46	ערבים	O	-	-
-47	אלכס	B-PER	-	shacharmirkin
-48	בליי	I-PER	-	shacharmirkin
+47	אלכס	B-PER	-	shachar
+48	בליי	I-PER	-	shachar
 49	ו	O	-	-
 50	נציג	O	-	-
 51	ה	O	-	-
@@ -2576,8 +2576,8 @@
 # sent_id = batch-0003-0023
 # text = ב בית שאן לא היה ב שבת ה משחק בין ה פועל ה מקומי ל ה פועל אום אל פאחם, לאחר ש נציגי אום אל פאחם הגישו בקשה ל בית ה משפט ה מחוזי ב נצרת עילית לבטל את_ _הוא .
 1	ב	O	-	-
-2	בית	B-LOC	-	shacharmirkin
-3	שאן	I-LOC	-	shacharmirkin
+2	בית	B-LOC	-	shachar
+3	שאן	I-LOC	-	shachar
 4	לא	O	-	-
 5	היה	O	-	-
 6	ב	O	-	-
@@ -2585,34 +2585,34 @@
 8	ה	O	-	-
 9	משחק	O	-	-
 10	בין	O	-	-
-11	ה	B-ORG	-	shacharmirkin
-12	פועל	I-ORG	-	shacharmirkin
+11	ה	B-ORG	-	shachar
+12	פועל	I-ORG	-	shachar
 13	ה	O	-	-
 14	מקומי	O	-	-
 15	ל	O	-	-
-16	ה	B-ORG	-	shacharmirkin
-17	פועל	I-ORG	-	shacharmirkin
-18	אום	I-ORG	-	shacharmirkin
-19	אל	I-ORG	-	shacharmirkin
-20	פאחם	I-ORG	-	shacharmirkin
+16	ה	B-ORG	-	shachar
+17	פועל	I-ORG	-	shachar
+18	אום	I-ORG	-	shachar
+19	אל	I-ORG	-	shachar
+20	פאחם	I-ORG	-	shachar
 21	,	O	-	-
 22	לאחר	O	-	-
 23	ש	O	-	-
 24	נציגי	O	-	-
-25	אום	B-ORG	-	shacharmirkin
-26	אל	I-ORG	-	shacharmirkin
-27	פאחם	I-ORG	-	shacharmirkin
+25	אום	B-ORG	-	shachar
+26	אל	I-ORG	-	shachar
+27	פאחם	I-ORG	-	shachar
 28	הגישו	O	-	-
 29	בקשה	O	-	-
 30	ל	O	-	-
-31	בית	B-ORG	-	shacharmirkin
-32	ה	I-ORG	-	shacharmirkin
-33	משפט	I-ORG	-	shacharmirkin
-34	ה	I-ORG	-	shacharmirkin
-35	מחוזי	I-ORG	-	shacharmirkin
+31	בית	B-ORG	-	shachar
+32	ה	I-ORG	-	shachar
+33	משפט	I-ORG	-	shachar
+34	ה	I-ORG	-	shachar
+35	מחוזי	I-ORG	-	shachar
 36	ב	O	-	-
-37	נצרת	B-LOC	-	shacharmirkin
-38	עילית	I-LOC	-	shacharmirkin
+37	נצרת	B-LOC	-	shachar
+38	עילית	I-LOC	-	shachar
 39	לבטל	O	-	-
 40	את_	O	-	-
 41	_הוא	O	-	-
@@ -2644,19 +2644,19 @@
 3	_הם	O	-	-
 4	של	O	-	-
 5	נציגי	O	-	-
-6	אום	B-ORG	-	shacharmirkin
-7	אל	I-ORG	-	shacharmirkin
-8	פאחם	I-ORG	-	shacharmirkin
+6	אום	B-ORG	-	shachar
+7	אל	I-ORG	-	shachar
+8	פאחם	I-ORG	-	shachar
 9	נבע	O	-	-
 10	על	O	-	-
 11	רקע	O	-	-
 12	הצהרות	O	-	-
 13	שחקן	O	-	-
-14	בית	B-ORG	-	shacharmirkin
-15	שאן	I-ORG	-	shacharmirkin
+14	בית	B-ORG	-	shachar
+15	שאן	I-ORG	-	shachar
 16	,	O	-	-
-17	צבי	B-PER	-	shacharmirkin
-18	קפלן	I-PER	-	shacharmirkin
+17	צבי	B-PER	-	shachar
+18	קפלן	I-PER	-	shachar
 19	,	O	-	-
 20	ש	O	-	-
 21	דיבר	O	-	-
@@ -2668,11 +2668,11 @@
 27	זכר	O	-	-
 28	ראש	O	-	-
 29	תנועת	O	-	-
-30	כך	B-ORG	-	shacharmirkin
+30	כך	B-ORG	-	shachar
 31	ה	O	-	-
 32	רב	O	-	-
-33	מאיר	B-PER	-	shacharmirkin
-34	כהנא	I-PER	-	shacharmirkin
+33	מאיר	B-PER	-	shachar
+34	כהנא	I-PER	-	shachar
 35	,	O	-	-
 36	ש	O	-	-
 37	נרצח	O	-	-
@@ -2689,11 +2689,11 @@
 2	אמירה	O	-	-
 3	זו	O	-	-
 4	הושעה	O	-	-
-5	קפלן	B-PER	-	shacharmirkin
+5	קפלן	B-PER	-	shachar
 6	מ	O	-	-
 7	אימוני	O	-	-
-8	בית	B-ORG	-	shacharmirkin
-9	שאן	I-ORG	-	shacharmirkin
+8	בית	B-ORG	-	shachar
+9	שאן	I-ORG	-	shachar
 10	.	O	-	-
 
 # sent_id = batch-0003-0027
@@ -2706,12 +2706,12 @@
 6	_הוא	O	-	-
 7	הזכיר	O	-	-
 8	ח"כ	O	-	-
-9	גולדמן	B-PER	-	shacharmirkin
+9	גולדמן	B-PER	-	shachar
 10	היה	O	-	-
 11	ב	O	-	-
 12	שבת	O	-	-
 13	ב	O	-	-
-14	טייבה	B-LOC	-	shacharmirkin
+14	טייבה	B-LOC	-	shachar
 15	.	O	-	-
 
 # sent_id = batch-0003-0028
@@ -2720,9 +2720,9 @@
 2	מיניבוס	O	-	-
 3	של	O	-	-
 4	נערי	O	-	-
-5	מכבי	B-ORG	-	shacharmirkin
-6	אור	I-ORG	-	shacharmirkin
-7	עקיבא	I-ORG	-	shacharmirkin
+5	מכבי	B-ORG	-	shachar
+6	אור	I-ORG	-	shachar
+7	עקיבא	I-ORG	-	shachar
 8	,	O	-	-
 9	הותקף	O	-	-
 10	בידי	O	-	-
@@ -2749,13 +2749,13 @@
 # sent_id = batch-0003-0029
 # text = ח"כ גולדמן אמר ל " ספורט ה ארץ ": "ה ספורט נועד לאחד ו לחזק דו-קיום בין יהודים ל ערבים , ו לא להיגרר אחרי בודדים ה מנסים לפגוע ב ה_ מרקם ש נוצר בין יהודים ל ערבים באמצעות מגרש ה ספורט .
 1	ח"כ	O	-	-
-2	גולדמן	B-PER	-	shacharmirkin
+2	גולדמן	B-PER	-	shachar
 3	אמר	O	-	-
 4	ל	O	-	-
 5	"	O	-	-
 6	ספורט	O	-	-
-7	ה	B-ORG	-	shacharmirkin
-8	ארץ	I-ORG	-	shacharmirkin
+7	ה	B-ORG	-	shachar
+8	ארץ	I-ORG	-	shachar
 9	"	O	-	-
 10	:	O	-	-
 11	"	O	-	-
@@ -2835,9 +2835,9 @@
 
 # sent_id = batch-0004-0002
 # text = רמת ה שרון חוללה אמש הפתעה גדולה, כש ניצחה את ה מוליך ערב ה מחזור ה פועל ירושלים 96 83.
-1	רמת	B-ORG	-	shacharmirkin
-2	ה	I-ORG	-	shacharmirkin
-3	שרון	I-ORG	-	shacharmirkin
+1	רמת	B-ORG	-	shachar
+2	ה	I-ORG	-	shachar
+3	שרון	I-ORG	-	shachar
 4	חוללה	O	-	-
 5	אמש	O	-	-
 6	הפתעה	O	-	-
@@ -2851,9 +2851,9 @@
 14	ערב	O	-	-
 15	ה	O	-	-
 16	מחזור	O	-	-
-17	ה	B-ORG	-	shacharmirkin
-18	פועל	I-ORG	-	shacharmirkin
-19	ירושלים	I-ORG	-	shacharmirkin
+17	ה	B-ORG	-	shachar
+18	פועל	I-ORG	-	shachar
+19	ירושלים	I-ORG	-	shachar
 20	96	O	-	-
 21	83	O	-	-
 22	.	O	-	-
@@ -2866,7 +2866,7 @@
 4	ה	O	-	-
 5	ראשונה	O	-	-
 6	נקטה	O	-	-
-7	ירושלים	B-ORG	-	shacharmirkin
+7	ירושלים	B-ORG	-	shachar
 8	ב	O	-	-
 9	שמירה	O	-	-
 10	איזורית	O	-	-
@@ -2882,9 +2882,9 @@
 1	שחקן_	O	-	-
 2	_של_	O	-	-
 3	_היא	O	-	-
-4	שפע	B-PER	-	shacharmirkin
+4	שפע	B-PER	-	shachar
 5	ו	O	-	-
-6	גיילס	B-PER	-	shacharmirkin
+6	גיילס	B-PER	-	shachar
 7	קלעו	O	-	-
 8	נקודות	O	-	-
 9	רבות	O	-	-
@@ -2892,9 +2892,9 @@
 
 # sent_id = batch-0004-0005
 # text = רמת ה שרון , ב שמירה אישית, החלה את ה משחק ב היסוס .
-1	רמת	B-ORG	-	shacharmirkin
-2	ה	I-ORG	-	shacharmirkin
-3	שרון	I-ORG	-	shacharmirkin
+1	רמת	B-ORG	-	shachar
+2	ה	I-ORG	-	shachar
+3	שרון	I-ORG	-	shachar
 4	,	O	-	-
 5	ב	O	-	-
 6	שמירה	O	-	-
@@ -2936,7 +2936,7 @@
 
 # sent_id = batch-0004-0008
 # text = אבדיה ה יוגוסלווי ש נראה היה, כי ייאלץ לעזוב את ה קבוצה בגלל יכולת_ _של_ _הוא ה חלשה עד כה הצטיין ו קלע 15 נקודות עד ה דקה ה-11, ב_ _היא נפגע בידי רוברטס ו הורד מ ה מגרש נאנק מ כאבים .
-1	אבדיה	B-PER	-	shacharmirkin
+1	אבדיה	B-PER	-	shachar
 2	ה	O	-	-
 3	יוגוסלווי	O	-	-
 4	ש	O	-	-
@@ -2973,7 +2973,7 @@
 35	_היא	O	-	-
 36	נפגע	O	-	-
 37	בידי	O	-	-
-38	רוברטס	B-PER	-	shacharmirkin
+38	רוברטס	B-PER	-	shachar
 39	ו	O	-	-
 40	הורד	O	-	-
 41	מ	O	-	-
@@ -2989,16 +2989,16 @@
 1	מש	O	-	-
 2	נראה	O	-	-
 3	ש	O	-	-
-4	רמת	B-ORG	-	shacharmirkin
-5	ה	I-ORG	-	shacharmirkin
-6	שרון	I-ORG	-	shacharmirkin
+4	רמת	B-ORG	-	shachar
+5	ה	I-ORG	-	shachar
+6	שרון	I-ORG	-	shachar
 7	עומדת	O	-	-
 8	להיכנע	O	-	-
 9	,	O	-	-
 10	דאגו	O	-	-
-11	איסטרלינג	B-PER	-	shacharmirkin
+11	איסטרלינג	B-PER	-	shachar
 12	ו	O	-	-
-13	נוורסון	B-PER	-	shacharmirkin
+13	נוורסון	B-PER	-	shachar
 14	להשאיר	O	-	-
 15	את_	O	-	-
 16	_היא	O	-	-
@@ -3013,7 +3013,7 @@
 1	43	O	-	-
 2	41	O	-	-
 3	ל	O	-	-
-4	ירושלים	B-ORG	-	shacharmirkin
+4	ירושלים	B-ORG	-	shachar
 5	ב	O	-	-
 6	ה_	O	-	-
 7	הפסקה	O	-	-
@@ -3033,10 +3033,10 @@
 
 # sent_id = batch-0004-0012
 # text = איסטרלינג לאסוף ו נוורסון צלפו מ כל מצב ו ב ה_ דקה ה-27 הובילה רמת ה שרון 60 55.
-1	איסטרלינג	B-PER	-	shacharmirkin
-2	לאסוף	B-PER	-	shacharmirkin
+1	איסטרלינג	B-PER	-	shachar
+2	לאסוף	B-PER	-	shachar
 3	ו	O	-	-
-4	נוורסון	B-PER	-	shacharmirkin
+4	נוורסון	B-PER	-	shachar
 5	צלפו	O	-	-
 6	מ	O	-	-
 7	כל	O	-	-
@@ -3049,19 +3049,19 @@
 14	-	O	-	-
 15	27	O	-	-
 16	הובילה	O	-	-
-17	רמת	B-ORG	-	shacharmirkin
-18	ה	I-ORG	-	shacharmirkin
-19	שרון	I-ORG	-	shacharmirkin
+17	רמת	B-ORG	-	shachar
+18	ה	I-ORG	-	shachar
+19	שרון	I-ORG	-	shachar
 20	60	O	-	-
 21	55	O	-	-
 22	.	O	-	-
 
 # sent_id = batch-0004-0013
 # text = מוטאפציץ החזיר את ירושלים ל יתרון 61 60.
-1	מוטאפציץ	B-PER	-	shacharmirkin
+1	מוטאפציץ	B-PER	-	shachar
 2	החזיר	O	-	-
 3	את	O	-	-
-4	ירושלים	B-ORG	-	shacharmirkin
+4	ירושלים	B-ORG	-	shachar
 5	ל	O	-	-
 6	יתרון	O	-	-
 7	61	O	-	-
@@ -3083,7 +3083,7 @@
 
 # sent_id = batch-0004-0015
 # text = ירושלים הפכה ל קבוצה מפוררת.
-1	ירושלים	B-ORG	-	shacharmirkin
+1	ירושלים	B-ORG	-	shachar
 2	הפכה	O	-	-
 3	ל	O	-	-
 4	קבוצה	O	-	-
@@ -3123,9 +3123,9 @@
 
 # sent_id = batch-0004-0017
 # text = גיילס ו שפע , ש ב ה_ מחצית ה ראשונה הצטיינו, כמו נעלמו.
-1	גיילס	B-PER	-	shacharmirkin
+1	גיילס	B-PER	-	shachar
 2	ו	O	-	-
-3	שפע	B-PER	-	shacharmirkin
+3	שפע	B-PER	-	shachar
 4	,	O	-	-
 5	ש	O	-	-
 6	ב	O	-	-
@@ -3148,9 +3148,9 @@
 5	לא	O	-	-
 6	יכלו	O	-	-
 7	ל	O	-	-
-8	רמת	B-ORG	-	shacharmirkin
-9	ה	I-ORG	-	shacharmirkin
-10	שרון	I-ORG	-	shacharmirkin
+8	רמת	B-ORG	-	shachar
+9	ה	I-ORG	-	shachar
+10	שרון	I-ORG	-	shachar
 11	ש	O	-	-
 12	הגדילה	O	-	-
 13	יתרון_	O	-	-
@@ -3216,22 +3216,22 @@
 4	שנה	O	-	-
 5	עלה	O	-	-
 6	מ	O	-	-
-7	ארה"ב	B-LOC	-	shacharmirkin
+7	ארה"ב	B-LOC	-	shachar
 8	ה	O	-	-
 9	רב	O	-	-
-10	יצחק	B-PER	-	shacharmirkin
-11	אייזיק	I-PER	-	shacharmirkin
-12	רוזנבאום	I-PER	-	shacharmirkin
+10	יצחק	B-PER	-	shachar
+11	אייזיק	I-PER	-	shachar
+12	רוזנבאום	I-PER	-	shachar
 13	,	O	-	-
 14	ה	O	-	-
 15	אדמו"ר	O	-	-
 16	מ	O	-	-
-17	קליוולנד	B-LOC	-	shacharmirkin
+17	קליוולנד	B-LOC	-	shachar
 18	,	O	-	-
 19	ו	O	-	-
 20	השתקע	O	-	-
 21	ב	O	-	-
-22	רעננה	B-LOC	-	shacharmirkin
+22	רעננה	B-LOC	-	shachar
 23	.	O	-	-
 
 # sent_id = batch-0004-0024
@@ -3250,13 +3250,13 @@
 12	ל	O	-	-
 13	עמותת	O	-	-
 14	"	O	-	-
-15	מוסדות	B-ORG	-	shacharmirkin
-16	קליוולנד	I-ORG	-	shacharmirkin
-17	ו	I-ORG	-	shacharmirkin
-18	ה	I-ORG	-	shacharmirkin
-19	קריה	I-ORG	-	shacharmirkin
-20	ב	I-ORG	-	shacharmirkin
-21	רעננה	I-ORG	-	shacharmirkin
+15	מוסדות	B-ORG	-	shachar
+16	קליוולנד	I-ORG	-	shachar
+17	ו	I-ORG	-	shachar
+18	ה	I-ORG	-	shachar
+19	קריה	I-ORG	-	shachar
+20	ב	I-ORG	-	shachar
+21	רעננה	I-ORG	-	shachar
 22	"	O	-	-
 23	כ	O	-	-
 24	מכר	O	-	-
@@ -3310,13 +3310,13 @@
 9	ה	O	-	-
 10	בנייה	O	-	-
 11	"	O	-	-
-12	ש.	B-ORG	-	shacharmirkin
-13	י.	I-ORG	-	shacharmirkin
-14	ל.	I-ORG	-	shacharmirkin
-15	נ	I-ORG	-	shacharmirkin
-16	,	I-ORG	-	shacharmirkin
-17	אחים	I-ORG	-	shacharmirkin
-18	נחום	I-ORG	-	shacharmirkin
+12	ש.	B-ORG	-	shachar
+13	י.	I-ORG	-	shachar
+14	ל.	I-ORG	-	shachar
+15	נ	I-ORG	-	shachar
+16	,	I-ORG	-	shachar
+17	אחים	I-ORG	-	shachar
+18	נחום	I-ORG	-	shachar
 19	"	O	-	-
 20	ב	O	-	-
 21	הסכם	O	-	-
@@ -3594,7 +3594,7 @@
 18	נועדה	O	-	-
 19	ל	O	-	-
 20	משפחת	O	-	-
-21	קנטור	B-PER	-	shacharmirkin
+21	קנטור	B-PER	-	shachar
 22	.	O	-	-
 
 # sent_id = batch-0005-0007
@@ -3690,16 +3690,16 @@
 21	דין	O	-	-
 22	מקוצר	O	-	-
 23	ל	O	-	-
-24	בית	B-ORG	-	shacharmirkin
-25	-	I-ORG	-	shacharmirkin
-26	ה	I-ORG	-	shacharmirkin
-27	משפט	I-ORG	-	shacharmirkin
-28	ה	I-ORG	-	shacharmirkin
-29	מחוזי	I-ORG	-	shacharmirkin
+24	בית	B-ORG	-	shachar
+25	-	I-ORG	-	shachar
+26	ה	I-ORG	-	shachar
+27	משפט	I-ORG	-	shachar
+28	ה	I-ORG	-	shachar
+29	מחוזי	I-ORG	-	shachar
 30	ב	O	-	-
-31	תל	B-LOC	-	shacharmirkin
-32	-	I-LOC	-	shacharmirkin
-33	אביב	I-LOC	-	shacharmirkin
+31	תל	B-LOC	-	shachar
+32	-	I-LOC	-	shachar
+33	אביב	I-LOC	-	shachar
 34	.	O	-	-
 
 # sent_id = batch-0005-0011
@@ -3822,16 +3822,16 @@
 # sent_id = batch-0005-0015
 # text = שופטת בית-ה משפט ה מחוזי רות שטרנברג-אליעז פסקה, כי ה עמותה תקבל רשות להתגונן רק ב טענת ה קיזוז , ו גם זאת רק עד ל 28 אלף ש"ח, ה מורכבים מ מס רכוש ש שילמה ה עמותה ו מ דמי ה שכירות ל משפחת קנטור, ש נשאה ב_ _הם ה עמותה עקב ה איחור ב מסירת ה דירה .
 1	שופטת	O	-	-
-2	בית	B-ORG	-	shacharmirkin
-3	-	I-ORG	-	shacharmirkin
-4	ה	I-ORG	-	shacharmirkin
-5	משפט	I-ORG	-	shacharmirkin
-6	ה	I-ORG	-	shacharmirkin
-7	מחוזי	I-ORG	-	shacharmirkin
-8	רות	B-PER	-	shacharmirkin
-9	שטרנברג	I-PER	-	shacharmirkin
-10	-	I-PER	-	shacharmirkin
-11	אליעז	I-PER	-	shacharmirkin
+2	בית	B-ORG	-	shachar
+3	-	I-ORG	-	shachar
+4	ה	I-ORG	-	shachar
+5	משפט	I-ORG	-	shachar
+6	ה	I-ORG	-	shachar
+7	מחוזי	I-ORG	-	shachar
+8	רות	B-PER	-	shachar
+9	שטרנברג	I-PER	-	shachar
+10	-	I-PER	-	shachar
+11	אליעז	I-PER	-	shachar
 12	פסקה	O	-	-
 13	,	O	-	-
 14	כי	O	-	-
@@ -3872,7 +3872,7 @@
 49	שכירות	O	-	-
 50	ל	O	-	-
 51	משפחת	O	-	-
-52	קנטור	B-PER	-	shacharmirkin
+52	קנטור	B-PER	-	shachar
 53	,	O	-	-
 54	ש	O	-	-
 55	נשאה	O	-	-
@@ -3945,7 +3945,7 @@
 52	פרט	O	-	-
 53	ל	O	-	-
 54	דירת	O	-	-
-55	קנטור	B-PER	-	shacharmirkin
+55	קנטור	B-PER	-	shachar
 56	,	O	-	-
 57	עד	O	-	-
 58	סילוק	O	-	-
@@ -4028,20 +4028,20 @@
 4	,	O	-	-
 5	באמצעות	O	-	-
 6	עו"ד	O	-	-
-7	אברהם	B-PER	-	shacharmirkin
-8	דהן	I-PER	-	shacharmirkin
+7	אברהם	B-PER	-	shachar
+8	דהן	I-PER	-	shachar
 9	,	O	-	-
 10	על	O	-	-
 11	החלטות	O	-	-
 12	ה	O	-	-
 13	שופטת	O	-	-
 14	ל	O	-	-
-15	בית	B-ORG	-	shacharmirkin
-16	-	I-ORG	-	shacharmirkin
-17	ה	I-ORG	-	shacharmirkin
-18	משפט	I-ORG	-	shacharmirkin
-19	ה	I-ORG	-	shacharmirkin
-20	עליון	I-ORG	-	shacharmirkin
+15	בית	B-ORG	-	shachar
+16	-	I-ORG	-	shachar
+17	ה	I-ORG	-	shachar
+18	משפט	I-ORG	-	shachar
+19	ה	I-ORG	-	shachar
+20	עליון	I-ORG	-	shachar
 21	(	O	-	-
 22	ע"א	O	-	-
 23	28588	O	-	-
@@ -4052,8 +4052,8 @@
 # text = ה שופט לוין, ש כתב את פסק-ה דין , ציין, כי אמנם ה התחייבות לשלם את ה מע"ם לפי זיכרון ה דברים מאפשרת ל ה_ חברה לעכב את מסירת ה דירות עד ה תשלום .
 1	ה	O	-	-
 2	שופט	O	-	-
-3	לוין	B-PER	-	shacharmirkin
-4	,	I-PER	-	shacharmirkin
+3	לוין	B-PER	-	shachar
+4	,	I-PER	-	shachar
 5	ש	O	-	-
 6	כתב	O	-	-
 7	את	O	-	-
@@ -4230,7 +4230,7 @@
 # text = ה שופט לוין ציטט מ ספר_ _של_ _הוא של ה שופט זוסמן, "סדרי ה דין ה אזרחי ", כי ב שלב ה דיון ב ה_ בקשה ל מתן רשות להתגונן "די ל_ _הוא (ל ה_ נתבע ) להראות כי הגנה אפשרית ב פה_ _של_ _הוא , ו לו רק ב דוחק , ו בית -ה משפט חייב ליתן רשות להתגונן, ש אם לא יעשה כן, יכריע למעשה כבר ב תובענה גופה, ו ה נתבע יצא מקופח".
 1	ה	O	-	-
 2	שופט	O	-	-
-3	לוין	B-PER	-	shacharmirkin
+3	לוין	B-PER	-	shachar
 4	ציטט	O	-	-
 5	מ	O	-	-
 6	ספר_	O	-	-
@@ -4239,7 +4239,7 @@
 9	של	O	-	-
 10	ה	O	-	-
 11	שופט	O	-	-
-12	זוסמן	B-PER	-	shacharmirkin
+12	זוסמן	B-PER	-	shachar
 13	,	O	-	-
 14	"	O	-	-
 15	סדרי	O	-	-
@@ -4325,7 +4325,7 @@
 5	דעת	O	-	-
 6	ה	O	-	-
 7	שופט	O	-	-
-8	לוין	B-PER	-	shacharmirkin
+8	לוין	B-PER	-	shachar
 9	,	O	-	-
 10	יש	O	-	-
 11	ב	O	-	-
@@ -4433,16 +4433,16 @@
 7	מעיר	O	-	-
 8	ה	O	-	-
 9	שופט	O	-	-
-10	לוין	B-PER	-	shacharmirkin
+10	לוין	B-PER	-	shachar
 11	,	O	-	-
 12	כי	O	-	-
 13	נשיא	O	-	-
-14	בית	B-ORG	-	shacharmirkin
-15	-	I-ORG	-	shacharmirkin
-16	ה	I-ORG	-	shacharmirkin
-17	משפט	I-ORG	-	shacharmirkin
-18	ה	I-ORG	-	shacharmirkin
-19	עליון	I-ORG	-	shacharmirkin
+14	בית	B-ORG	-	shachar
+15	-	I-ORG	-	shachar
+16	ה	I-ORG	-	shachar
+17	משפט	I-ORG	-	shachar
+18	ה	I-ORG	-	shachar
+19	עליון	I-ORG	-	shachar
 20	הורה	O	-	-
 21	ל	O	-	-
 22	שני	O	-	-
@@ -4661,7 +4661,7 @@
 
 # sent_id = batch-0006-0005
 # text = ליגטי, מ גדולי ה מחצית ה שנייה של ה מאה , הנחיל ל_ _אנחנו בין שאר יצירה_ _של_ _הוא ה מקסימות קונצרטו קאמרי ל 13 כלי קשת, נשיפה ו מקלדת .
-1	ליגטי	B-PER	-	shacharmirkin
+1	ליגטי	B-PER	-	shachar
 2	,	O	-	-
 3	מ	O	-	-
 4	גדולי	O	-	-
@@ -4762,7 +4762,7 @@
 14	אנסמבל	O	-	-
 15	כלי	O	-	-
 16	של	O	-	-
-17	שטיינברג	B-PER	-	shacharmirkin
+17	שטיינברג	B-PER	-	shachar
 18	,	O	-	-
 19	היו	O	-	-
 20	סיפור_	O	-	-
@@ -4771,7 +4771,7 @@
 23	ה	O	-	-
 24	לבבי	O	-	-
 25	של	O	-	-
-26	קאמינגס	B-PER	-	shacharmirkin
+26	קאמינגס	B-PER	-	shachar
 27	"	O	-	-
 28	ה	O	-	-
 29	איש	O	-	-
@@ -4800,8 +4800,8 @@
 
 # sent_id = batch-0006-0010
 # text = בן זקן היא "פרפורמרית" משכנעת ש קול_ _של_ _היא אמנם קטן, אך עשיר ב גוונים דקים ב זמרה ו ב דקלום .
-1	בן	B-PER	-	shacharmirkin
-2	זקן	I-PER	-	shacharmirkin
+1	בן	B-PER	-	shachar
+2	זקן	I-PER	-	shachar
 3	היא	O	-	-
 4	"	O	-	-
 5	פרפורמרית	O	-	-
@@ -4844,7 +4844,7 @@
 
 # sent_id = batch-0006-0012
 # text = סרוסי הוא מלחין ש ראוי לשים לב ל התפתחות_ _של_ _הוא .
-1	סרוסי	B-PER	-	shacharmirkin
+1	סרוסי	B-PER	-	shachar
 2	הוא	O	-	-
 3	מלחין	O	-	-
 4	ש	O	-	-
@@ -5010,7 +5010,7 @@
 9	ארבעה	O	-	-
 10	מ	O	-	-
 11	שירי	O	-	-
-12	זלדה	B-PER	-	shacharmirkin
+12	זלדה	B-PER	-	shachar
 13	)	O	-	-
 14	ל	O	-	-
 15	קול	O	-	-
@@ -5063,9 +5063,9 @@
 14	ו	O	-	-
 15	ה	O	-	-
 16	זמרת	O	-	-
-17	וייזל	B-PER	-	shacharmirkin
-18	-	I-PER	-	shacharmirkin
-19	קפסוטו	I-PER	-	shacharmirkin
+17	וייזל	B-PER	-	shachar
+18	-	I-PER	-	shachar
+19	קפסוטו	I-PER	-	shachar
 20	.	O	-	-
 
 # sent_id = batch-0006-0019
@@ -5078,11 +5078,11 @@
 6	מדינות	O	-	-
 7	בלטיות	O	-	-
 8	:	O	-	-
-9	אסטוניה	B-ORG	-	shacharmirkin
+9	אסטוניה	B-ORG	-	shachar
 10	,	O	-	-
-11	לטוויה	B-ORG	-	shacharmirkin
+11	לטוויה	B-ORG	-	shachar
 12	ו	O	-	-
-13	ליטא	B-ORG	-	shacharmirkin
+13	ליטא	B-ORG	-	shachar
 14	.	O	-	-
 
 # sent_id = batch-0006-0020
@@ -5093,7 +5093,7 @@
 4	ה	O	-	-
 5	גבול	O	-	-
 6	ב	O	-	-
-7	אירופה	B-LOC	-	shacharmirkin
+7	אירופה	B-LOC	-	shachar
 8	ב	O	-	-
 9	1945	O	-	-
 10	,	O	-	-
@@ -5118,7 +5118,7 @@
 11	של	O	-	-
 12	מזרח	O	-	-
 13	-	O	-	-
-14	רוסיה	B-LOC	-	shacharmirkin
+14	רוסיה	B-LOC	-	shachar
 15	.	O	-	-
 
 # sent_id = batch-0006-0022
@@ -5132,7 +5132,7 @@
 7	משרטטי	O	-	-
 8	מפות	O	-	-
 9	:	O	-	-
-10	קלינינגרד	B-LOC	-	shacharmirkin
+10	קלינינגרד	B-LOC	-	shachar
 11	אובלסט	O	-	-
 12	של	O	-	-
 13	ה	O	-	-
@@ -5155,10 +5155,10 @@
 6	פיסה	O	-	-
 7	קטנה	O	-	-
 8	של	O	-	-
-9	ברית	B-ORG	-	shacharmirkin
-10	-	I-ORG	-	shacharmirkin
-11	ה	I-ORG	-	shacharmirkin
-12	מועצות	I-ORG	-	shacharmirkin
+9	ברית	B-ORG	-	shachar
+10	-	I-ORG	-	shachar
+11	ה	I-ORG	-	shachar
+12	מועצות	I-ORG	-	shachar
 13	,	O	-	-
 14	ש	O	-	-
 15	לעתים	O	-	-
@@ -5171,9 +5171,9 @@
 22	ה	O	-	-
 23	שוכנת	O	-	-
 24	בין	O	-	-
-25	ליטא	B-LOC	-	shacharmirkin
+25	ליטא	B-LOC	-	shachar
 26	ו	O	-	-
-27	פולין	B-LOC	-	shacharmirkin
+27	פולין	B-LOC	-	shachar
 28	.	O	-	-
 
 # sent_id = batch-0006-0024
@@ -5235,13 +5235,13 @@
 9	רגיש	O	-	-
 10	ביותר	O	-	-
 11	של	O	-	-
-12	ה	B-ORG	-	shacharmirkin
-13	קרמלין	I-ORG	-	shacharmirkin
+12	ה	B-ORG	-	shachar
+13	קרמלין	I-ORG	-	shachar
 14	,	O	-	-
 15	ש	O	-	-
 16	שכן	O	-	-
 17	ב	O	-	-
-18	קניגסברג	B-LOC	-	shacharmirkin
+18	קניגסברג	B-LOC	-	shachar
 19	,	O	-	-
 20	בירה_	O	-	-
 21	_של_	O	-	-
@@ -5249,7 +5249,7 @@
 23	של	O	-	-
 24	מזרח	O	-	-
 25	-	O	-	-
-26	פרוסיה	B-LOC	-	shacharmirkin
+26	פרוסיה	B-LOC	-	shachar
 27	,	O	-	-
 28	ו	O	-	-
 29	ה	O	-	-
@@ -5260,8 +5260,8 @@
 34	חי	O	-	-
 35	ו	O	-	-
 36	פעל	O	-	-
-37	עמנואל	B-PER	-	shacharmirkin
-38	קאנט	I-PER	-	shacharmirkin
+37	עמנואל	B-PER	-	shachar
+38	קאנט	I-PER	-	shachar
 39	.	O	-	-
 
 # sent_id = batch-0006-0028
@@ -5273,9 +5273,9 @@
 5	_של_	O	-	-
 6	_היא	O	-	-
 7	של	O	-	-
-8	קניגסברג	B-LOC	-	shacharmirkin
+8	קניגסברג	B-LOC	-	shachar
 9	ל	O	-	-
-10	קלינינגרד	B-LOC	-	shacharmirkin
+10	קלינינגרד	B-LOC	-	shachar
 11	.	O	-	-
 
 # sent_id = batch-0006-0029
@@ -5284,11 +5284,11 @@
 2	יוני	O	-	-
 3	1989	O	-	-
 4	הגיעו	O	-	-
-5	הלמוט	B-PER	-	shacharmirkin
-6	קוהל	I-PER	-	shacharmirkin
+5	הלמוט	B-PER	-	shachar
+6	קוהל	I-PER	-	shachar
 7	ו	O	-	-
-8	מיכאיל	B-PER	-	shacharmirkin
-9	גורבצוב	I-PER	-	shacharmirkin
+8	מיכאיל	B-PER	-	shachar
+9	גורבצוב	I-PER	-	shachar
 10	ל	O	-	-
 11	הסכם	O	-	-
 12	,	O	-	-
@@ -5314,15 +5314,15 @@
 32	חלק	O	-	-
 33	אינטגרלי	O	-	-
 34	מ	O	-	-
-35	ברית	B-ORG	-	shacharmirkin
-36	-	I-ORG	-	shacharmirkin
-37	ה	I-ORG	-	shacharmirkin
-38	מועצות	I-ORG	-	shacharmirkin
+35	ברית	B-ORG	-	shachar
+36	-	I-ORG	-	shachar
+37	ה	I-ORG	-	shachar
+38	מועצות	I-ORG	-	shachar
 39	.	O	-	-
 
 # sent_id = batch-0006-0030
 # text = בון ראתה ב הסכם זה אמצעי לבלום את גל ה מהגרים ה גרמנים ש הגיעו מ ברית -ה מועצות .
-1	בון	B-ORG	-	shacharmirkin
+1	בון	B-ORG	-	shachar
 2	ראתה	O	-	-
 3	ב	O	-	-
 4	הסכם	O	-	-
@@ -5338,10 +5338,10 @@
 14	ש	O	-	-
 15	הגיעו	O	-	-
 16	מ	O	-	-
-17	ברית	B-ORG	-	shacharmirkin
-18	-	I-ORG	-	shacharmirkin
-19	ה	I-ORG	-	shacharmirkin
-20	מועצות	I-ORG	-	shacharmirkin
+17	ברית	B-ORG	-	shachar
+18	-	I-ORG	-	shachar
+19	ה	I-ORG	-	shachar
+20	מועצות	I-ORG	-	shachar
 21	.	O	-	-
 
 # newdoc id = batch-0007
@@ -5349,7 +5349,7 @@
 # text = ב עיני מוסקווה זה היה פתרון ל בעיה לאומית טורדת ש נמשכה שנים.
 1	ב	O	-	-
 2	עיני	O	-	-
-3	מוסקווה	B-ORG	-	shacharmirkin
+3	מוסקווה	B-ORG	-	shachar
 4	זה	O	-	-
 5	היה	O	-	-
 6	פתרון	O	-	-
@@ -5370,7 +5370,7 @@
 4	קיימת	O	-	-
 5	לאורך	O	-	-
 6	ה	O	-	-
-7	וולגה	B-LOC	-	shacharmirkin
+7	וולגה	B-LOC	-	shachar
 8	רפובליקה	O	-	-
 9	גרמנית	O	-	-
 10	-	O	-	-
@@ -5381,26 +5381,26 @@
 15	ב	O	-	-
 16	ה_	O	-	-
 17	שם	O	-	-
-18	ה	B-ORG	-	shacharmirkin
-19	רפובליקה	I-ORG	-	shacharmirkin
-20	ה	I-ORG	-	shacharmirkin
-21	אוטונומית	I-ORG	-	shacharmirkin
-22	של	I-ORG	-	shacharmirkin
-23	ה	I-ORG	-	shacharmirkin
-24	וולגה	I-ORG	-	shacharmirkin
+18	ה	B-ORG	-	shachar
+19	רפובליקה	I-ORG	-	shachar
+20	ה	I-ORG	-	shachar
+21	אוטונומית	I-ORG	-	shachar
+22	של	I-ORG	-	shachar
+23	ה	I-ORG	-	shachar
+24	וולגה	I-ORG	-	shachar
 25	.	O	-	-
 
 # sent_id = batch-0007-0003
 # text = לאחר פלישת גרמניה ה נאצית ל בריה"ם הכריז סטלין על כל ה גרמנים ש חיו ב ברית -ה מועצות כ גיס חמישי של היטלר.
 1	לאחר	O	-	-
 2	פלישת	O	-	-
-3	גרמניה	B-ORG	-	shacharmirkin
+3	גרמניה	B-ORG	-	shachar
 4	ה	O	-	-
 5	נאצית	O	-	-
 6	ל	O	-	-
-7	בריה"ם	B-LOC	-	shacharmirkin
+7	בריה"ם	B-LOC	-	shachar
 8	הכריז	O	-	-
-9	סטלין	B-PER	-	shacharmirkin
+9	סטלין	B-PER	-	shachar
 10	על	O	-	-
 11	כל	O	-	-
 12	ה	O	-	-
@@ -5408,15 +5408,15 @@
 14	ש	O	-	-
 15	חיו	O	-	-
 16	ב	O	-	-
-17	ברית	B-LOC	-	shacharmirkin
-18	-	I-LOC	-	shacharmirkin
-19	ה	I-LOC	-	shacharmirkin
-20	מועצות	I-LOC	-	shacharmirkin
+17	ברית	B-LOC	-	shachar
+18	-	I-LOC	-	shachar
+19	ה	I-LOC	-	shachar
+20	מועצות	I-LOC	-	shachar
 21	כ	O	-	-
 22	גיס	O	-	-
 23	חמישי	O	-	-
 24	של	O	-	-
-25	היטלר	B-PER	-	shacharmirkin
+25	היטלר	B-PER	-	shachar
 26	.	O	-	-
 
 # sent_id = batch-0007-0004
@@ -5437,11 +5437,11 @@
 14	ב	O	-	-
 15	מרכז	O	-	-
 16	-	O	-	-
-17	אסיה	B-LOC	-	shacharmirkin
+17	אסיה	B-LOC	-	shachar
 18	,	O	-	-
 19	בעיקר	O	-	-
 20	ל	O	-	-
-21	קזחסטן	B-LOC	-	shacharmirkin
+21	קזחסטן	B-LOC	-	shachar
 22	.	O	-	-
 
 # sent_id = batch-0007-0005
@@ -5462,15 +5462,15 @@
 14	מזרחי	O	-	-
 15	ביותר	O	-	-
 16	של	O	-	-
-17	גרמניה	B-LOC	-	shacharmirkin
+17	גרמניה	B-LOC	-	shachar
 18	ה	O	-	-
 19	מחצית	O	-	-
 20	ה	O	-	-
 21	צפונית	O	-	-
 22	של	O	-	-
-23	מזרח	B-LOC	-	shacharmirkin
-24	-	I-LOC	-	shacharmirkin
-25	פרוסיה	I-LOC	-	shacharmirkin
+23	מזרח	B-LOC	-	shachar
+24	-	I-LOC	-	shachar
+25	פרוסיה	I-LOC	-	shachar
 26	גורשה	O	-	-
 27	ה	O	-	-
 28	אוכלוסייה	O	-	-
@@ -5499,12 +5499,12 @@
 2	התיישבו	O	-	-
 3	לבסוף	O	-	-
 4	ב	O	-	-
-5	מערב	B-LOC	-	shacharmirkin
-6	-	I-LOC	-	shacharmirkin
-7	גרמניה	I-LOC	-	shacharmirkin
+5	מערב	B-LOC	-	shachar
+6	-	I-LOC	-	shachar
+7	גרמניה	I-LOC	-	shachar
 8	ו	O	-	-
 9	ב	O	-	-
-10	אוסטריה	B-LOC	-	shacharmirkin
+10	אוסטריה	B-LOC	-	shachar
 11	.	O	-	-
 
 # sent_id = batch-0007-0008
@@ -5513,14 +5513,14 @@
 2	ה	O	-	-
 3	פגישה	O	-	-
 4	בין	O	-	-
-5	קוהל	B-PER	-	shacharmirkin
+5	קוהל	B-PER	-	shachar
 6	ו	O	-	-
-7	גורבצוב	B-PER	-	shacharmirkin
+7	גורבצוב	B-PER	-	shachar
 8	ב	O	-	-
 9	1989	O	-	-
 10	,	O	-	-
 11	הקימה	O	-	-
-12	מוסקווה	B-ORG	-	shacharmirkin
+12	מוסקווה	B-ORG	-	shachar
 13	ועדה	O	-	-
 14	ל	O	-	-
 15	פתרון	O	-	-
@@ -5584,7 +5584,7 @@
 10	ה	O	-	-
 11	צו	O	-	-
 12	של	O	-	-
-13	סטלין	B-PER	-	shacharmirkin
+13	סטלין	B-PER	-	shachar
 14	,	O	-	-
 15	ו	O	-	-
 16	ביטול	O	-	-
@@ -5599,22 +5599,22 @@
 25	משל_	O	-	-
 26	_הם	O	-	-
 27	ב	O	-	-
-28	ברית	B-LOC	-	shacharmirkin
-29	-	I-LOC	-	shacharmirkin
-30	ה	I-LOC	-	shacharmirkin
-31	מועצות	I-LOC	-	shacharmirkin
+28	ברית	B-LOC	-	shachar
+29	-	I-LOC	-	shachar
+30	ה	I-LOC	-	shachar
+31	מועצות	I-LOC	-	shachar
 32	.	O	-	-
 
 # sent_id = batch-0007-0012
 # text = קונסטנטין ארליך, עורך מגזין גרמני ב קזחסטן , גילה ב 1988 כי דרישה זו קיבלה תמיכה ש ב ה_ שתיקה מ ליאוניד ברזנייב, ש הוציא ב 1982 צו ה מאשר את __ _של_ _הם של ה גרמנים ל אזור ה וולגה .
-1	קונסטנטין	B-PER	-	shacharmirkin
-2	ארליך	I-PER	-	shacharmirkin
+1	קונסטנטין	B-PER	-	shachar
+2	ארליך	I-PER	-	shachar
 3	,	O	-	-
 4	עורך	O	-	-
 5	מגזין	O	-	-
 6	גרמני	O	-	-
 7	ב	O	-	-
-8	קזחסטן	B-LOC	-	shacharmirkin
+8	קזחסטן	B-LOC	-	shachar
 9	,	O	-	-
 10	גילה	O	-	-
 11	ב	O	-	-
@@ -5629,8 +5629,8 @@
 20	ה_	O	-	-
 21	שתיקה	O	-	-
 22	מ	O	-	-
-23	ליאוניד	B-PER	-	shacharmirkin
-24	ברזנייב	I-PER	-	shacharmirkin
+23	ליאוניד	B-PER	-	shachar
+24	ברזנייב	I-PER	-	shachar
 25	,	O	-	-
 26	ש	O	-	-
 27	הוציא	O	-	-
@@ -5649,7 +5649,7 @@
 40	ל	O	-	-
 41	אזור	O	-	-
 42	ה	O	-	-
-43	וולגה	B-LOC	-	shacharmirkin
+43	וולגה	B-LOC	-	shachar
 44	.	O	-	-
 
 # sent_id = batch-0007-0013
@@ -5673,14 +5673,14 @@
 # text = אזור ה וולגה , ש תמיד היה חלק מ רוסיה , שולב ב ה_ רפובליקה ה רוסית ב 1942 .
 1	אזור	O	-	-
 2	ה	O	-	-
-3	וולגה	B-LOC	-	shacharmirkin
+3	וולגה	B-LOC	-	shachar
 4	,	O	-	-
 5	ש	O	-	-
 6	תמיד	O	-	-
 7	היה	O	-	-
 8	חלק	O	-	-
 9	מ	O	-	-
-10	רוסיה	B-ORG	-	shacharmirkin
+10	רוסיה	B-ORG	-	shachar
 11	,	O	-	-
 12	שולב	O	-	-
 13	ב	O	-	-
@@ -5694,8 +5694,8 @@
 
 # sent_id = batch-0007-0015
 # text = ה קרמלין גם השתעשע ב ה_ רעיון להקים רפובליקה גרמנית ב ה_ פינה ה צפון -מזרחית של קזחסטן.
-1	ה	B-ORG	-	shacharmirkin
-2	קרמלין	I-ORG	-	shacharmirkin
+1	ה	B-ORG	-	shachar
+2	קרמלין	I-ORG	-	shachar
 3	גם	O	-	-
 4	השתעשע	O	-	-
 5	ב	O	-	-
@@ -5712,7 +5712,7 @@
 16	-	O	-	-
 17	מזרחית	O	-	-
 18	של	O	-	-
-19	קזחסטן	B-LOC	-	shacharmirkin
+19	קזחסטן	B-LOC	-	shachar
 20	.	O	-	-
 
 # sent_id = batch-0007-0016
@@ -5762,26 +5762,26 @@
 11	ה	O	-	-
 12	חדשה	O	-	-
 13	ב	O	-	-
-14	קלינינגרד	B-LOC	-	shacharmirkin
+14	קלינינגרד	B-LOC	-	shachar
 15	אובלסט	O	-	-
 16	,	O	-	-
 17	לשעבר	O	-	-
-18	מזרח	B-LOC	-	shacharmirkin
-19	-	I-LOC	-	shacharmirkin
-20	פרוסיה	I-LOC	-	shacharmirkin
+18	מזרח	B-LOC	-	shachar
+19	-	I-LOC	-	shachar
+20	פרוסיה	I-LOC	-	shachar
 21	ה	O	-	-
 22	גרמנית	O	-	-
 23	.	O	-	-
 
 # sent_id = batch-0007-0018
 # text = קורט וידרמאייאר, יושב ראש "וידרגבורט", ארגון מטרייה של גרמנים ב ברית -ה מועצות , אמר ב ראיון ל " שפיגל ", ש הקמת "רפובליקה סובייטית סוציאליסטית גרמנית" ב צפון -מזרח רוסיה, אינה רק הגיונית, אלא גם "אי אפשר יהיה אז להאשים גרמנים ש הם לוקחים אדמות (מ אחרים ).
-1	קורט	B-PER	-	shacharmirkin
-2	וידרמאייאר	I-PER	-	shacharmirkin
+1	קורט	B-PER	-	shachar
+2	וידרמאייאר	I-PER	-	shachar
 3	,	O	-	-
 4	יושב	O	-	-
 5	ראש	O	-	-
 6	"	O	-	-
-7	וידרגבורט	B-ORG	-	shacharmirkin
+7	וידרגבורט	B-ORG	-	shachar
 8	"	O	-	-
 9	,	O	-	-
 10	ארגון	O	-	-
@@ -5789,17 +5789,17 @@
 12	של	O	-	-
 13	גרמנים	O	-	-
 14	ב	O	-	-
-15	ברית	B-LOC	-	shacharmirkin
-16	-	I-LOC	-	shacharmirkin
-17	ה	I-LOC	-	shacharmirkin
-18	מועצות	I-LOC	-	shacharmirkin
+15	ברית	B-LOC	-	shachar
+16	-	I-LOC	-	shachar
+17	ה	I-LOC	-	shachar
+18	מועצות	I-LOC	-	shachar
 19	,	O	-	-
 20	אמר	O	-	-
 21	ב	O	-	-
 22	ראיון	O	-	-
 23	ל	O	-	-
 24	"	O	-	-
-25	שפיגל	B-ORG	-	shacharmirkin
+25	שפיגל	B-ORG	-	shachar
 26	"	O	-	-
 27	,	O	-	-
 28	ש	O	-	-
@@ -5814,7 +5814,7 @@
 37	צפון	O	-	-
 38	-	O	-	-
 39	מזרח	O	-	-
-40	רוסיה	B-LOC	-	shacharmirkin
+40	רוסיה	B-LOC	-	shachar
 41	,	O	-	-
 42	אינה	O	-	-
 43	רק	O	-	-
@@ -5856,10 +5856,10 @@
 13	ה	O	-	-
 14	גרמני	O	-	-
 15	ב	O	-	-
-16	ברית	B-LOC	-	shacharmirkin
-17	-	I-LOC	-	shacharmirkin
-18	ה	I-LOC	-	shacharmirkin
-19	מועצות	I-LOC	-	shacharmirkin
+16	ברית	B-LOC	-	shachar
+17	-	I-LOC	-	shachar
+18	ה	I-LOC	-	shachar
+19	מועצות	I-LOC	-	shachar
 20	צעד	O	-	-
 21	נוסף	O	-	-
 22	לקראת	O	-	-
@@ -5872,8 +5872,8 @@
 29	ה	O	-	-
 30	עת	O	-	-
 31	"	O	-	-
-32	ליטרטורה	B-ORG	-	shacharmirkin
-33	גזאטי	I-ORG	-	shacharmirkin
+32	ליטרטורה	B-ORG	-	shachar
+33	גזאטי	I-ORG	-	shachar
 34	"	O	-	-
 35	ערך	O	-	-
 36	משאל	O	-	-
@@ -5899,17 +5899,17 @@
 7	יעדיפו	O	-	-
 8	לעבור	O	-	-
 9	ל	O	-	-
-10	מזרח	B-LOC	-	shacharmirkin
-11	-	I-LOC	-	shacharmirkin
-12	פרוסיה	I-LOC	-	shacharmirkin
+10	מזרח	B-LOC	-	shachar
+11	-	I-LOC	-	shachar
+12	פרוסיה	I-LOC	-	shachar
 13	ה	O	-	-
 14	צפונית	O	-	-
 15	מאשר	O	-	-
 16	להגר	O	-	-
 17	ל	O	-	-
-18	מערב	B-LOC	-	shacharmirkin
-19	-	I-LOC	-	shacharmirkin
-20	גרמניה	I-LOC	-	shacharmirkin
+18	מערב	B-LOC	-	shachar
+19	-	I-LOC	-	shachar
+20	גרמניה	I-LOC	-	shachar
 21	.	O	-	-
 
 # sent_id = batch-0007-0021
@@ -5920,7 +5920,7 @@
 4	מ	O	-	-
 5	כן	O	-	-
 6	הודיעה	O	-	-
-7	מוסקווה	B-ORG	-	shacharmirkin
+7	מוסקווה	B-ORG	-	shachar
 8	על	O	-	-
 9	תוכניות	O	-	-
 10	למשוך	O	-	-
@@ -5931,7 +5931,7 @@
 15	שונות	O	-	-
 16	להתיישב	O	-	-
 17	ב	O	-	-
-18	קלינינגרד	B-LOC	-	shacharmirkin
+18	קלינינגרד	B-LOC	-	shachar
 19	אובלסט	O	-	-
 20	,	O	-	-
 21	ו	O	-	-
@@ -5942,13 +5942,13 @@
 26	ה	O	-	-
 27	בירה	O	-	-
 28	ל	O	-	-
-29	קאנטגרד	B-LOC	-	shacharmirkin
+29	קאנטגרד	B-LOC	-	shachar
 30	,	O	-	-
 31	על	O	-	-
 32	-	O	-	-
 33	שם	O	-	-
-34	עמנואל	B-PER	-	shacharmirkin
-35	קאנט	I-PER	-	shacharmirkin
+34	עמנואל	B-PER	-	shachar
+35	קאנט	I-PER	-	shachar
 36	.	O	-	-
 
 # sent_id = batch-0007-0022
@@ -5962,26 +5962,26 @@
 7	אוגוסט	O	-	-
 8	,	O	-	-
 9	כאשר	O	-	-
-10	הוגו	B-PER	-	shacharmirkin
-11	ורמבכר	I-PER	-	shacharmirkin
+10	הוגו	B-PER	-	shachar
+11	ורמבכר	I-PER	-	shachar
 12	,	O	-	-
 13	חבר	O	-	-
 14	בכיר	O	-	-
 15	ב	O	-	-
-16	ווידרגבורט	B-ORG	-	shacharmirkin
+16	ווידרגבורט	B-ORG	-	shachar
 17	,	O	-	-
 18	אמר	O	-	-
 19	ב	O	-	-
 20	ראיון	O	-	-
 21	ל	O	-	-
 22	"	O	-	-
-23	סובייטסקאיה	B-ORG	-	shacharmirkin
-24	רוסיה	I-ORG	-	shacharmirkin
+23	סובייטסקאיה	B-ORG	-	shachar
+24	רוסיה	I-ORG	-	shachar
 25	"	O	-	-
 26	,	O	-	-
 27	ש	O	-	-
 28	אזור	O	-	-
-29	קניגסברג	B-LOC	-	shacharmirkin
+29	קניגסברג	B-LOC	-	shachar
 30	חייב	O	-	-
 31	להפוך	O	-	-
 32	ל	O	-	-
@@ -5991,10 +5991,10 @@
 36	ה_	O	-	-
 37	גרמנים	O	-	-
 38	ב	O	-	-
-39	ברית	B-LOC	-	shacharmirkin
-40	-	I-LOC	-	shacharmirkin
-41	ה	I-LOC	-	shacharmirkin
-42	מועצות	I-LOC	-	shacharmirkin
+39	ברית	B-LOC	-	shachar
+40	-	I-LOC	-	shachar
+41	ה	I-LOC	-	shachar
+42	מועצות	I-LOC	-	shachar
 43	.	O	-	-
 
 # sent_id = batch-0007-0023
@@ -6015,7 +6015,7 @@
 14	ב	O	-	-
 15	אזור	O	-	-
 16	ה	O	-	-
-17	וולגה	B-LOC	-	shacharmirkin
+17	וולגה	B-LOC	-	shachar
 18	.	O	-	-
 
 # sent_id = batch-0007-0024
@@ -6027,7 +6027,7 @@
 5	ה	O	-	-
 6	נוכחי	O	-	-
 7	ב	O	-	-
-8	קלניניגרד	B-LOC	-	shacharmirkin
+8	קלניניגרד	B-LOC	-	shachar
 9	תיירות	O	-	-
 10	גרמנית	O	-	-
 11	ו	O	-	-
@@ -6053,8 +6053,8 @@
 3	זו	O	-	-
 4	דן	O	-	-
 5	כעת	O	-	-
-6	ה	B-ORG	-	shacharmirkin
-7	קרמלין	I-ORG	-	shacharmirkin
+6	ה	B-ORG	-	shachar
+7	קרמלין	I-ORG	-	shachar
 8	.	O	-	-
 
 # sent_id = batch-0007-0026
@@ -6084,19 +6084,19 @@
 23	פרק	O	-	-
 24	אם	O	-	-
 25	תצליח	O	-	-
-26	ליטא	B-ORG	-	shacharmirkin
+26	ליטא	B-ORG	-	shachar
 27	להתנתק	O	-	-
 28	מ	O	-	-
-29	ברית	B-ORG	-	shacharmirkin
-30	-	I-ORG	-	shacharmirkin
-31	ה	I-ORG	-	shacharmirkin
-32	מועצות	I-ORG	-	shacharmirkin
+29	ברית	B-ORG	-	shachar
+30	-	I-ORG	-	shachar
+31	ה	I-ORG	-	shachar
+32	מועצות	I-ORG	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0007-0027
 # text = אם ליטא תהיה עצמאית, לא יהיה ל ה_ רפובליקה ה אוטונומית ה גרמנית קניגסברג, שום גשר יבשתי עם שאר חלקי ברית-ה מועצות .
 1	אם	O	-	-
-2	ליטא	B-ORG	-	shacharmirkin
+2	ליטא	B-ORG	-	shachar
 3	תהיה	O	-	-
 4	עצמאית	O	-	-
 5	,	O	-	-
@@ -6109,7 +6109,7 @@
 12	אוטונומית	O	-	-
 13	ה	O	-	-
 14	גרמנית	O	-	-
-15	קניגסברג	B-LOC	-	shacharmirkin
+15	קניגסברג	B-LOC	-	shachar
 16	,	O	-	-
 17	שום	O	-	-
 18	גשר	O	-	-
@@ -6117,22 +6117,22 @@
 20	עם	O	-	-
 21	שאר	O	-	-
 22	חלקי	O	-	-
-23	ברית	B-LOC	-	shacharmirkin
-24	-	I-LOC	-	shacharmirkin
-25	ה	I-LOC	-	shacharmirkin
-26	מועצות	I-LOC	-	shacharmirkin
+23	ברית	B-LOC	-	shachar
+24	-	I-LOC	-	shachar
+25	ה	I-LOC	-	shachar
+26	מועצות	I-LOC	-	shachar
 27	.	O	-	-
 
 # sent_id = batch-0007-0028
 # text = בעיית ליטא עוררה ירושה נוספת מ ימי סטלין, ה דורשת טיפול.
 1	בעיית	O	-	-
-2	ליטא	B-ORG	-	shacharmirkin
+2	ליטא	B-ORG	-	shachar
 3	עוררה	O	-	-
 4	ירושה	O	-	-
 5	נוספת	O	-	-
 6	מ	O	-	-
 7	ימי	O	-	-
-8	סטלין	B-PER	-	shacharmirkin
+8	סטלין	B-PER	-	shachar
 9	,	O	-	-
 10	ה	O	-	-
 11	דורשת	O	-	-
@@ -6144,7 +6144,7 @@
 1	ב	O	-	-
 2	1945	O	-	-
 3	ניסה	O	-	-
-4	סטלין	B-PER	-	shacharmirkin
+4	סטלין	B-PER	-	shachar
 5	לפייס	O	-	-
 6	את	O	-	-
 7	ה	O	-	-
@@ -6166,10 +6166,10 @@
 23	של_	O	-	-
 24	_הם	O	-	-
 25	ב	O	-	-
-26	ברית	B-LOC	-	shacharmirkin
-27	-	I-LOC	-	shacharmirkin
-28	ה	I-LOC	-	shacharmirkin
-29	מועצות	I-LOC	-	shacharmirkin
+26	ברית	B-LOC	-	shachar
+27	-	I-LOC	-	shachar
+28	ה	I-LOC	-	shachar
+29	מועצות	I-LOC	-	shachar
 30	.	O	-	-
 
 # sent_id = batch-0007-0030
@@ -6182,15 +6182,15 @@
 6	ה	O	-	-
 7	צפונית	O	-	-
 8	של	O	-	-
-9	מזרח	B-LOC	-	shacharmirkin
-10	-	I-LOC	-	shacharmirkin
-11	פרוסיה	I-LOC	-	shacharmirkin
+9	מזרח	B-LOC	-	shachar
+10	-	I-LOC	-	shachar
+11	פרוסיה	I-LOC	-	shachar
 12	ה	O	-	-
 13	ידועה	O	-	-
 14	ב	O	-	-
 15	ה_	O	-	-
 16	שם	O	-	-
-17	ממלנד	B-LOC	-	shacharmirkin
+17	ממלנד	B-LOC	-	shachar
 18	,	O	-	-
 19	ה	O	-	-
 20	משתרעת	O	-	-
@@ -6218,7 +6218,7 @@
 # newdoc id = batch-0008
 # sent_id = batch-0008-0001
 # text = ממלנד, ש אותו_ _היא הקימו ב ה_ מאה ה 13 מתיישבים גרמנים מ חבל ה ריין , תחת ה שם נוי דורטמונד, היתה חלק מ מזרח -פרוסיה עד 1945 (מלבד ב ה_ שנים 23 39).
-1	ממלנד	B-ORG	-	shacharmirkin
+1	ממלנד	B-ORG	-	shachar
 2	,	O	-	-
 3	ש	O	-	-
 4	אותו_	O	-	-
@@ -6234,20 +6234,20 @@
 14	מ	O	-	-
 15	חבל	O	-	-
 16	ה	O	-	-
-17	ריין	B-LOC	-	shacharmirkin
+17	ריין	B-LOC	-	shachar
 18	,	O	-	-
 19	תחת	O	-	-
 20	ה	O	-	-
 21	שם	O	-	-
-22	נוי	B-ORG	-	shacharmirkin
-23	דורטמונד	I-ORG	-	shacharmirkin
+22	נוי	B-ORG	-	shachar
+23	דורטמונד	I-ORG	-	shachar
 24	,	O	-	-
 25	היתה	O	-	-
 26	חלק	O	-	-
 27	מ	O	-	-
-28	מזרח	B-ORG	-	shacharmirkin
-29	-	I-ORG	-	shacharmirkin
-30	פרוסיה	I-ORG	-	shacharmirkin
+28	מזרח	B-ORG	-	shachar
+29	-	I-ORG	-	shachar
+30	פרוסיה	I-ORG	-	shachar
 31	עד	O	-	-
 32	1945	O	-	-
 33	(	O	-	-
@@ -6265,11 +6265,11 @@
 1	ב	O	-	-
 2	1923	O	-	-
 3	פלשה	O	-	-
-4	ליטא	B-ORG	-	shacharmirkin
+4	ליטא	B-ORG	-	shachar
 5	ה	O	-	-
 6	עצמאית	O	-	-
 7	ל	O	-	-
-8	ממלנד	B-ORG	-	shacharmirkin
+8	ממלנד	B-ORG	-	shachar
 9	,	O	-	-
 10	ש	O	-	-
 11	היתה	O	-	-
@@ -6277,9 +6277,9 @@
 13	נתונה	O	-	-
 14	ל	O	-	-
 15	חסות	O	-	-
-16	חבר	B-ORG	-	shacharmirkin
-17	ה	I-ORG	-	shacharmirkin
-18	לאומים	I-ORG	-	shacharmirkin
+16	חבר	B-ORG	-	shachar
+17	ה	I-ORG	-	shachar
+18	לאומים	I-ORG	-	shachar
 19	,	O	-	-
 20	ב	O	-	-
 21	מחאה	O	-	-
@@ -6289,15 +6289,15 @@
 25	_של_	O	-	-
 26	_הוא	O	-	-
 27	של	O	-	-
-28	חבר	B-ORG	-	shacharmirkin
-29	ה	I-ORG	-	shacharmirkin
-30	לאומים	I-ORG	-	shacharmirkin
+28	חבר	B-ORG	-	shachar
+29	ה	I-ORG	-	shachar
+30	לאומים	I-ORG	-	shachar
 31	להניע	O	-	-
 32	את	O	-	-
-33	פולין	B-ORG	-	shacharmirkin
+33	פולין	B-ORG	-	shachar
 34	לסגת	O	-	-
 35	מ	O	-	-
-36	ווילניוס	B-LOC	-	shacharmirkin
+36	ווילניוס	B-LOC	-	shachar
 37	,	O	-	-
 38	ש	O	-	-
 39	אל_	O	-	-
@@ -6312,7 +6312,7 @@
 1	רפובליקה	O	-	-
 2	ריבונית	O	-	-
 3	של	O	-	-
-4	קניגסברג	B-ORG	-	shacharmirkin
+4	קניגסברג	B-ORG	-	shachar
 5	עלולה	O	-	-
 6	,	O	-	-
 7	ב	O	-	-
@@ -6328,7 +6328,7 @@
 17	ל	O	-	-
 18	בעיות	O	-	-
 19	עם	O	-	-
-20	פולין	B-ORG	-	shacharmirkin
+20	פולין	B-ORG	-	shachar
 21	.	O	-	-
 
 # sent_id = batch-0008-0004
@@ -6349,7 +6349,7 @@
 14	ה	O	-	-
 15	ממשלה	O	-	-
 16	ב	O	-	-
-17	ווארשה	B-LOC	-	shacharmirkin
+17	ווארשה	B-LOC	-	shachar
 18	,	O	-	-
 19	תעודות	O	-	-
 20	ה	O	-	-
@@ -6373,9 +6373,9 @@
 9	סיפוח	O	-	-
 10	מזרח	O	-	-
 11	-	O	-	-
-12	ליטא	B-LOC	-	shacharmirkin
+12	ליטא	B-LOC	-	shachar
 13	ל	O	-	-
-14	פולין	B-ORG	-	shacharmirkin
+14	פולין	B-ORG	-	shachar
 15	ב	O	-	-
 16	1920	O	-	-
 17	.	O	-	-
@@ -6455,13 +6455,13 @@
 8	_היא	O	-	-
 9	עמד	O	-	-
 10	נשיא	O	-	-
-11	בית	B-ORG	-	shacharmirkin
-12	-	I-ORG	-	shacharmirkin
-13	ה	I-ORG	-	shacharmirkin
-14	משפט	I-ORG	-	shacharmirkin
-15	ה	I-ORG	-	shacharmirkin
-16	עליון	I-ORG	-	shacharmirkin
-17	משה	B-PER	-	shacharmirkin
+11	בית	B-ORG	-	shachar
+12	-	I-ORG	-	shachar
+13	ה	I-ORG	-	shachar
+14	משפט	I-ORG	-	shachar
+15	ה	I-ORG	-	shachar
+16	עליון	I-ORG	-	shachar
+17	משה	B-PER	-	shachar
 18	לנדוי	O	-	-
 19	,	O	-	-
 20	הוקמה	O	-	-
@@ -6493,24 +6493,24 @@
 46	ו	O	-	-
 47	בייחוד	O	-	-
 48	ב	O	-	-
-49	בית	B-ORG	-	shacharmirkin
-50	-	I-ORG	-	shacharmirkin
-51	ה	I-ORG	-	shacharmirkin
-52	משפט	I-ORG	-	shacharmirkin
-53	ה	I-ORG	-	shacharmirkin
-54	עליון	I-ORG	-	shacharmirkin
+49	בית	B-ORG	-	shachar
+50	-	I-ORG	-	shachar
+51	ה	I-ORG	-	shachar
+52	משפט	I-ORG	-	shachar
+53	ה	I-ORG	-	shachar
+54	עליון	I-ORG	-	shachar
 55	ו	O	-	-
 56	ב	O	-	-
-57	בית	B-ORG	-	shacharmirkin
-58	-	I-ORG	-	shacharmirkin
-59	ה	I-ORG	-	shacharmirkin
-60	משפט	I-ORG	-	shacharmirkin
-61	ה	I-ORG	-	shacharmirkin
-62	מחוזי	I-ORG	-	shacharmirkin
+57	בית	B-ORG	-	shachar
+58	-	I-ORG	-	shachar
+59	ה	I-ORG	-	shachar
+60	משפט	I-ORG	-	shachar
+61	ה	I-ORG	-	shachar
+62	מחוזי	I-ORG	-	shachar
 63	ב	O	-	-
-64	תל	B-LOC	-	shacharmirkin
-65	-	I-LOC	-	shacharmirkin
-66	אביב	I-LOC	-	shacharmirkin
+64	תל	B-LOC	-	shachar
+65	-	I-LOC	-	shachar
+66	אביב	I-LOC	-	shachar
 67	.	O	-	-
 
 # sent_id = batch-0008-0009
@@ -6563,8 +6563,8 @@
 46	"	O	-	-
 47	,	O	-	-
 48	כתבה	O	-	-
-49	ועדת	B-ORG	-	shacharmirkin
-50	לנדוי	I-ORG	-	shacharmirkin
+49	ועדת	B-ORG	-	shachar
+50	לנדוי	I-ORG	-	shachar
 51	ב	O	-	-
 52	דין	O	-	-
 53	ו	O	-	-
@@ -6606,12 +6606,12 @@
 4	עברה	O	-	-
 5	היו	O	-	-
 6	ב	O	-	-
-7	בית	B-ORG	-	shacharmirkin
-8	-	I-ORG	-	shacharmirkin
-9	ה	I-ORG	-	shacharmirkin
-10	משפט	I-ORG	-	shacharmirkin
-11	ה	I-ORG	-	shacharmirkin
-12	עליון	I-ORG	-	shacharmirkin
+7	בית	B-ORG	-	shachar
+8	-	I-ORG	-	shachar
+9	ה	I-ORG	-	shachar
+10	משפט	I-ORG	-	shachar
+11	ה	I-ORG	-	shachar
+12	עליון	I-ORG	-	shachar
 13	כ	O	-	-
 14	3,009	O	-	-
 15	תיקים	O	-	-
@@ -6743,12 +6743,12 @@
 6	ה	O	-	-
 7	משפטים	O	-	-
 8	,	O	-	-
-9	אברהם	B-PER	-	shacharmirkin
-10	שריר	I-PER	-	shacharmirkin
+9	אברהם	B-PER	-	shachar
+10	שריר	I-PER	-	shachar
 11	,	O	-	-
 12	ל	O	-	-
-13	ה_	B-ORG	-	shacharmirkin
-14	כנסת	I-ORG	-	shacharmirkin
+13	ה_	B-ORG	-	shachar
+14	כנסת	I-ORG	-	shachar
 15	הצעה	O	-	-
 16	מ	O	-	-
 17	טעם	O	-	-
@@ -6825,8 +6825,8 @@
 1	שר	O	-	-
 2	ה	O	-	-
 3	משפטים	O	-	-
-4	דן	B-PER	-	shacharmirkin
-5	מרידור	I-PER	-	shacharmirkin
+4	דן	B-PER	-	shachar
+5	מרידור	I-PER	-	shachar
 6	בחר	O	-	-
 7	ב	O	-	-
 8	דרך	O	-	-
@@ -7013,21 +7013,21 @@
 # text = ח"כ פרוף שמעון שטרית, ש היה מ חברי ועדת לנדוי, הגיש כעת ל ה_ כנסת הצעת-חוק ל רפורמה ב מערכת בתי-ה משפט , ש נועדה לייעל את ה מערכת בלי לפגוע ב מעמד ה שופטים ה מחוזיים , כפי ש היה צפוי מ הצעת ה ממשלה .
 1	ח"כ	O	-	-
 2	פרוף	O	-	-
-3	שמעון	B-PER	-	shacharmirkin
-4	שטרית	I-PER	-	shacharmirkin
+3	שמעון	B-PER	-	shachar
+4	שטרית	I-PER	-	shachar
 5	,	O	-	-
 6	ש	O	-	-
 7	היה	O	-	-
 8	מ	O	-	-
 9	חברי	O	-	-
-10	ועדת	B-ORG	-	shacharmirkin
-11	לנדוי	I-ORG	-	shacharmirkin
+10	ועדת	B-ORG	-	shachar
+11	לנדוי	I-ORG	-	shachar
 12	,	O	-	-
 13	הגיש	O	-	-
 14	כעת	O	-	-
 15	ל	O	-	-
-16	ה_	B-ORG	-	shacharmirkin
-17	כנסת	I-ORG	-	shacharmirkin
+16	ה_	B-ORG	-	shachar
+17	כנסת	I-ORG	-	shachar
 18	הצעת	O	-	-
 19	-	O	-	-
 20	חוק	O	-	-
@@ -7118,12 +7118,12 @@
 28	ל	O	-	-
 29	ערעורים	O	-	-
 30	ו	O	-	-
-31	בית	B-ORG	-	shacharmirkin
-32	-	I-ORG	-	shacharmirkin
-33	ה	I-ORG	-	shacharmirkin
-34	משפט	I-ORG	-	shacharmirkin
-35	ה	I-ORG	-	shacharmirkin
-36	עליון	I-ORG	-	shacharmirkin
+31	בית	B-ORG	-	shachar
+32	-	I-ORG	-	shachar
+33	ה	I-ORG	-	shachar
+34	משפט	I-ORG	-	shachar
+35	ה	I-ORG	-	shachar
+36	עליון	I-ORG	-	shachar
 37	.	O	-	-
 
 # sent_id = batch-0008-0024
@@ -7413,12 +7413,12 @@
 18	ו	O	-	-
 19	על	O	-	-
 20	שופטי	O	-	-
-21	בית	B-ORG	-	shacharmirkin
-22	-	I-ORG	-	shacharmirkin
-23	ה	I-ORG	-	shacharmirkin
-24	משפט	I-ORG	-	shacharmirkin
-25	ה	I-ORG	-	shacharmirkin
-26	עליון	I-ORG	-	shacharmirkin
+21	בית	B-ORG	-	shachar
+22	-	I-ORG	-	shachar
+23	ה	I-ORG	-	shachar
+24	משפט	I-ORG	-	shachar
+25	ה	I-ORG	-	shachar
+26	עליון	I-ORG	-	shachar
 27	.	O	-	-
 
 # sent_id = batch-0009-0003
@@ -7448,12 +7448,12 @@
 
 # sent_id = batch-0009-0004
 # text = בית-ה משפט ה עליון יישאר ב ה_ מבנה ה קיים , ו ישמש ערכאת ערעור על החלטות בית-ה משפט ל ערעורים .
-1	בית	B-ORG	-	shacharmirkin
-2	-	I-ORG	-	shacharmirkin
-3	ה	I-ORG	-	shacharmirkin
-4	משפט	I-ORG	-	shacharmirkin
-5	ה	I-ORG	-	shacharmirkin
-6	עליון	I-ORG	-	shacharmirkin
+1	בית	B-ORG	-	shachar
+2	-	I-ORG	-	shachar
+3	ה	I-ORG	-	shachar
+4	משפט	I-ORG	-	shachar
+5	ה	I-ORG	-	shachar
+6	עליון	I-ORG	-	shachar
 7	יישאר	O	-	-
 8	ב	O	-	-
 9	ה_	O	-	-
@@ -7495,12 +7495,12 @@
 4	יובטח	O	-	-
 5	,	O	-	-
 6	ש	O	-	-
-7	בית	B-ORG	-	shacharmirkin
-8	-	I-ORG	-	shacharmirkin
-9	ה	I-ORG	-	shacharmirkin
-10	משפט	I-ORG	-	shacharmirkin
-11	ה	I-ORG	-	shacharmirkin
-12	עליון	I-ORG	-	shacharmirkin
+7	בית	B-ORG	-	shachar
+8	-	I-ORG	-	shachar
+9	ה	I-ORG	-	shachar
+10	משפט	I-ORG	-	shachar
+11	ה	I-ORG	-	shachar
+12	עליון	I-ORG	-	shachar
 13	ימשיך	O	-	-
 14	לקבוע	O	-	-
 15	הלכות	O	-	-
@@ -7519,12 +7519,12 @@
 2	בג"ץ	O	-	-
 3	יישארו	O	-	-
 4	בידי	O	-	-
-5	בית	B-ORG	-	shacharmirkin
-6	-	I-ORG	-	shacharmirkin
-7	ה	I-ORG	-	shacharmirkin
-8	משפט	I-ORG	-	shacharmirkin
-9	ה	I-ORG	-	shacharmirkin
-10	עליון	I-ORG	-	shacharmirkin
+5	בית	B-ORG	-	shachar
+6	-	I-ORG	-	shachar
+7	ה	I-ORG	-	shachar
+8	משפט	I-ORG	-	shachar
+9	ה	I-ORG	-	shachar
+10	עליון	I-ORG	-	shachar
 11	,	O	-	-
 12	חוץ	O	-	-
 13	מ	O	-	-
@@ -7553,7 +7553,7 @@
 5	_הוא	O	-	-
 6	של	O	-	-
 7	ח"כ	O	-	-
-8	שטרית	B-PER	-	shacharmirkin
+8	שטרית	B-PER	-	shachar
 9	,	O	-	-
 10	תוגדל	O	-	-
 11	סמכות	O	-	-
@@ -7599,12 +7599,12 @@
 18	התייעצות	O	-	-
 19	עם	O	-	-
 20	נשיא	O	-	-
-21	בית	B-ORG	-	shacharmirkin
-22	-	I-ORG	-	shacharmirkin
-23	ה	I-ORG	-	shacharmirkin
-24	משפט	I-ORG	-	shacharmirkin
-25	ה	I-ORG	-	shacharmirkin
-26	עליון	I-ORG	-	shacharmirkin
+21	בית	B-ORG	-	shachar
+22	-	I-ORG	-	shachar
+23	ה	I-ORG	-	shachar
+24	משפט	I-ORG	-	shachar
+25	ה	I-ORG	-	shachar
+26	עליון	I-ORG	-	shachar
 27	.	O	-	-
 
 # sent_id = batch-0009-0010
@@ -7614,11 +7614,11 @@
 3	סמכות	O	-	-
 4	זאתו	O	-	-
 5	ל	O	-	-
-6	ה_	B-ORG	-	shacharmirkin
-7	וועדה	I-ORG	-	shacharmirkin
-8	ל	I-ORG	-	shacharmirkin
-9	בחירת	I-ORG	-	shacharmirkin
-10	שופטים	I-ORG	-	shacharmirkin
+6	ה_	B-ORG	-	shachar
+7	וועדה	I-ORG	-	shachar
+8	ל	I-ORG	-	shachar
+9	בחירת	I-ORG	-	shachar
+10	שופטים	I-ORG	-	shachar
 11	,	O	-	-
 12	כדי	O	-	-
 13	לשמור	O	-	-
@@ -7728,13 +7728,13 @@
 37	ב	O	-	-
 38	כלל	O	-	-
 39	זה	O	-	-
-40	בית	B-ORG	-	shacharmirkin
-41	-	I-ORG	-	shacharmirkin
-42	ה	I-ORG	-	shacharmirkin
-43	דין	I-ORG	-	shacharmirkin
-44	ל	I-ORG	-	shacharmirkin
-45	ה_	I-ORG	-	shacharmirkin
-46	עבודה	I-ORG	-	shacharmirkin
+40	בית	B-ORG	-	shachar
+41	-	I-ORG	-	shachar
+42	ה	I-ORG	-	shachar
+43	דין	I-ORG	-	shachar
+44	ל	I-ORG	-	shachar
+45	ה_	I-ORG	-	shachar
+46	עבודה	I-ORG	-	shachar
 47	.	O	-	-
 
 # sent_id = batch-0009-0014
@@ -7843,7 +7843,7 @@
 2	אלה	O	-	-
 3	מתקיימת	O	-	-
 4	ב	O	-	-
-5	מילאנו	B-LOC	-	shacharmirkin
+5	מילאנו	B-LOC	-	shachar
 6	תערוכה	O	-	-
 7	יוצאת	O	-	-
 8	דופן	O	-	-
@@ -7883,7 +7883,7 @@
 7	ה	O	-	-
 8	היסטורי	O	-	-
 9	ב	O	-	-
-10	מוסקווה	B-LOC	-	shacharmirkin
+10	מוסקווה	B-LOC	-	shachar
 11	,	O	-	-
 12	ו	O	-	-
 13	נתגלה	O	-	-
@@ -7896,7 +7896,7 @@
 20	ש	O	-	-
 21	הובאה	O	-	-
 22	ל	O	-	-
-23	איטליה	B-LOC	-	shacharmirkin
+23	איטליה	B-LOC	-	shachar
 24	לפני	O	-	-
 25	כ	O	-	-
 26	שנה	O	-	-
@@ -7926,9 +7926,9 @@
 10	ה	O	-	-
 11	אורתודוקסית	O	-	-
 12	ב	O	-	-
-13	ברית	B-LOC	-	shacharmirkin
-14	ה	I-LOC	-	shacharmirkin
-15	מועצות	I-LOC	-	shacharmirkin
+13	ברית	B-LOC	-	shachar
+14	ה	I-LOC	-	shachar
+15	מועצות	I-LOC	-	shachar
 16	.	O	-	-
 
 # sent_id = batch-0009-0021
@@ -7947,8 +7947,8 @@
 12	ל	O	-	-
 13	אגדה	O	-	-
 14	על	O	-	-
-15	מריה	B-PER	-	shacharmirkin
-16	מגדלנה	I-PER	-	shacharmirkin
+15	מריה	B-PER	-	shachar
+16	מגדלנה	I-PER	-	shachar
 17	,	O	-	-
 18	ש	O	-	-
 19	הביאה	O	-	-
@@ -7956,7 +7956,7 @@
 21	ה	O	-	-
 22	קיסר	O	-	-
 23	ב	O	-	-
-24	רומא	B-LOC	-	shacharmirkin
+24	רומא	B-LOC	-	shachar
 25	ביצה	O	-	-
 26	צבועה	O	-	-
 27	ב	O	-	-
@@ -7967,7 +7967,7 @@
 32	_של_	O	-	-
 33	_הוא	O	-	-
 34	של	O	-	-
-35	ישו	B-PER	-	shacharmirkin
+35	ישו	B-PER	-	shachar
 36	.	O	-	-
 
 # sent_id = batch-0009-0022
@@ -7994,16 +7994,16 @@
 20	של	O	-	-
 21	ה	O	-	-
 22	צאר	O	-	-
-23	אלכסיי	B-PER	-	shacharmirkin
-24	מיכאלוביץ	I-PER	-	shacharmirkin
+23	אלכסיי	B-PER	-	shachar
+24	מיכאלוביץ	I-PER	-	shachar
 25	,	O	-	-
 26	אב_	O	-	-
 27	_של_	O	-	-
 28	_הוא	O	-	-
 29	של	O	-	-
-30	פטר	B-PER	-	shacharmirkin
-31	ה	I-PER	-	shacharmirkin
-32	גדול	I-PER	-	shacharmirkin
+30	פטר	B-PER	-	shachar
+31	ה	I-PER	-	shachar
+32	גדול	I-PER	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0009-0023
@@ -8204,7 +8204,7 @@
 3	ביצה	O	-	-
 4	תלו	O	-	-
 5	כ	O	-	-
-6	איקונין	B-PER	-	shacharmirkin
+6	איקונין	B-PER	-	shachar
 7	.	O	-	-
 
 # sent_id = batch-0010-0002
@@ -8250,12 +8250,12 @@
 20	ציורים	O	-	-
 21	מפורסמים	O	-	-
 22	של	O	-	-
-23	ליאונרדו	B-PER	-	shacharmirkin
-24	דה	I-PER	-	shacharmirkin
-25	-	I-PER	-	shacharmirkin
-26	וינצי	I-PER	-	shacharmirkin
+23	ליאונרדו	B-PER	-	shachar
+24	דה	I-PER	-	shachar
+25	-	I-PER	-	shachar
+26	וינצי	I-PER	-	shachar
 27	ו	O	-	-
-28	רפאל	B-PER	-	shacharmirkin
+28	רפאל	B-PER	-	shachar
 29	.	O	-	-
 
 # sent_id = batch-0010-0004
@@ -8265,15 +8265,15 @@
 3	תערוכה	O	-	-
 4	הביאה	O	-	-
 5	ל	O	-	-
-6	מילאנו	B-LOC	-	shacharmirkin
+6	מילאנו	B-LOC	-	shachar
 7	ה	O	-	-
 8	אוצרת	O	-	-
-9	מרילינה	B-PER	-	shacharmirkin
-10	מרדט	I-PER	-	shacharmirkin
-11	דריה	I-PER	-	shacharmirkin
-12	דה	I-PER	-	shacharmirkin
-13	-	I-PER	-	shacharmirkin
-14	צוליאנו	I-PER	-	shacharmirkin
+9	מרילינה	B-PER	-	shachar
+10	מרדט	I-PER	-	shachar
+11	דריה	I-PER	-	shachar
+12	דה	I-PER	-	shachar
+13	-	I-PER	-	shachar
+14	צוליאנו	I-PER	-	shachar
 15	,	O	-	-
 16	ו	O	-	-
 17	היא	O	-	-
@@ -8287,11 +8287,11 @@
 25	מפורסם	O	-	-
 26	ביותר	O	-	-
 27	ב	O	-	-
-28	מילאנו	B-LOC	-	shacharmirkin
+28	מילאנו	B-LOC	-	shachar
 29	,	O	-	-
-30	ויה	B-LOC	-	shacharmirkin
-31	מונטה	I-LOC	-	shacharmirkin
-32	נפוליאונה	I-LOC	-	shacharmirkin
+30	ויה	B-LOC	-	shachar
+31	מונטה	I-LOC	-	shachar
+32	נפוליאונה	I-LOC	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0010-0005
@@ -8409,8 +8409,8 @@
 7	ה	O	-	-
 8	פרופסור	O	-	-
 9	אמריטוס	O	-	-
-10	שמואל	B-PER	-	shacharmirkin
-11	אביטל	I-PER	-	shacharmirkin
+10	שמואל	B-PER	-	shachar
+11	אביטל	I-PER	-	shachar
 12	(	O	-	-
 13	ש	O	-	-
 14	החל	O	-	-
@@ -8428,8 +8428,8 @@
 26	)	O	-	-
 27	,	O	-	-
 28	ו	O	-	-
-29	אלכס	B-PER	-	shacharmirkin
-30	קופרמן	I-PER	-	shacharmirkin
+29	אלכס	B-PER	-	shachar
+30	קופרמן	I-PER	-	shachar
 31	,	O	-	-
 32	כיוונו	O	-	-
 33	את	O	-	-
@@ -8550,15 +8550,15 @@
 23	ה	O	-	-
 24	זמנים	O	-	-
 25	:	O	-	-
-26	ארכימדס	B-PER	-	shacharmirkin
+26	ארכימדס	B-PER	-	shachar
 27	,	O	-	-
-28	פיבונצי	B-PER	-	shacharmirkin
+28	פיבונצי	B-PER	-	shachar
 29	,	O	-	-
-30	עומר	B-PER	-	shacharmirkin
-31	כיאם	I-PER	-	shacharmirkin
-32	פרמה	I-PER	-	shacharmirkin
+30	עומר	B-PER	-	shachar
+31	כיאם	I-PER	-	shachar
+32	פרמה	I-PER	-	shachar
 33	,	O	-	-
-34	גאוס	B-PER	-	shacharmirkin
+34	גאוס	B-PER	-	shachar
 35	ו	O	-	-
 36	עוד	O	-	-
 37	.	O	-	-
@@ -8772,39 +8772,39 @@
 3	נוספים	O	-	-
 4	:	O	-	-
 5	פרוף	O	-	-
-6	שמואל	B-PER	-	shacharmirkin
-7	אביטל	I-PER	-	shacharmirkin
+6	שמואל	B-PER	-	shachar
+7	אביטל	I-PER	-	shachar
 8	,	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	מחלקה	I-ORG	-	shacharmirkin
-11	ל	I-ORG	-	shacharmirkin
-12	הוראת	I-ORG	-	shacharmirkin
-13	ה	I-ORG	-	shacharmirkin
-14	טכנולוגיה	I-ORG	-	shacharmirkin
-15	ו	I-ORG	-	shacharmirkin
-16	ה	I-ORG	-	shacharmirkin
-17	מדעים	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	מחלקה	I-ORG	-	shachar
+11	ל	I-ORG	-	shachar
+12	הוראת	I-ORG	-	shachar
+13	ה	I-ORG	-	shachar
+14	טכנולוגיה	I-ORG	-	shachar
+15	ו	I-ORG	-	shachar
+16	ה	I-ORG	-	shachar
+17	מדעים	I-ORG	-	shachar
 18	,	O	-	-
 19	קרית	O	-	-
-20	ה	B-ORG	-	shacharmirkin
-21	טכניון	I-ORG	-	shacharmirkin
+20	ה	B-ORG	-	shachar
+21	טכניון	I-ORG	-	shachar
 22	,	O	-	-
-23	חיפה	B-LOC	-	shacharmirkin
+23	חיפה	B-LOC	-	shachar
 24	.	O	-	-
 
 # sent_id = batch-0010-0024
 # text = מזכ"ל לשכת עורכי ה דין , עו"ד שמעון בן-יעקב, קרא ל שר ה משפטים , דן מרידור, ליזום הצעות חוק ש יקבעו , כי נציגי ה לשכה ב ה_ וועדות ל בחירת שופטים ו דיינים ו כן ראש ה לשכה ו ראשי ה וועדים ה מחוזיים לא יוכלו להיבחר ל תפקיד_ _של_ _הם ל יותר מ שתי כהונות רצופות.
 1	מזכ"ל	O	-	-
-2	לשכת	B-ORG	-	shacharmirkin
-3	עורכי	I-ORG	-	shacharmirkin
-4	ה	I-ORG	-	shacharmirkin
-5	דין	I-ORG	-	shacharmirkin
+2	לשכת	B-ORG	-	shachar
+3	עורכי	I-ORG	-	shachar
+4	ה	I-ORG	-	shachar
+5	דין	I-ORG	-	shachar
 6	,	O	-	-
 7	עו"ד	O	-	-
-8	שמעון	B-PER	-	shacharmirkin
-9	בן	I-PER	-	shacharmirkin
-10	-	I-PER	-	shacharmirkin
-11	יעקב	I-PER	-	shacharmirkin
+8	שמעון	B-PER	-	shachar
+9	בן	I-PER	-	shachar
+10	-	I-PER	-	shachar
+11	יעקב	I-PER	-	shachar
 12	,	O	-	-
 13	קרא	O	-	-
 14	ל	O	-	-
@@ -8812,8 +8812,8 @@
 16	ה	O	-	-
 17	משפטים	O	-	-
 18	,	O	-	-
-19	דן	B-PER	-	shacharmirkin
-20	מרידור	I-PER	-	shacharmirkin
+19	דן	B-PER	-	shachar
+20	מרידור	I-PER	-	shachar
 21	,	O	-	-
 22	ליזום	O	-	-
 23	הצעות	O	-	-
@@ -8866,12 +8866,12 @@
 3	אל	O	-	-
 4	ה	O	-	-
 5	שר	O	-	-
-6	מרידור	B-PER	-	shacharmirkin
+6	מרידור	B-PER	-	shachar
 7	כתב	O	-	-
 8	עו"ד	O	-	-
-9	בן	B-PER	-	shacharmirkin
-10	-	I-PER	-	shacharmirkin
-11	יעקב	I-PER	-	shacharmirkin
+9	בן	B-PER	-	shachar
+10	-	I-PER	-	shachar
+11	יעקב	I-PER	-	shachar
 12	,	O	-	-
 13	כי	O	-	-
 14	חברים	O	-	-
@@ -8880,11 +8880,11 @@
 17	ב	O	-	-
 18	ראש	O	-	-
 19	מוסדות	O	-	-
-20	לשכת	B-ORG	-	shacharmirkin
-21	עורכי	I-ORG	-	shacharmirkin
-22	-	I-ORG	-	shacharmirkin
-23	ה	I-ORG	-	shacharmirkin
-24	דין	I-ORG	-	shacharmirkin
+20	לשכת	B-ORG	-	shachar
+21	עורכי	I-ORG	-	shachar
+22	-	I-ORG	-	shachar
+23	ה	I-ORG	-	shachar
+24	דין	I-ORG	-	shachar
 25	באו	O	-	-
 26	לידי	O	-	-
 27	הסכמים	O	-	-
@@ -8912,18 +8912,18 @@
 49	כהונה	O	-	-
 50	שלישית	O	-	-
 51	ב	O	-	-
-52	ה_	B-ORG	-	shacharmirkin
-53	וועדה	I-ORG	-	shacharmirkin
-54	ל	I-ORG	-	shacharmirkin
-55	בחירת	I-ORG	-	shacharmirkin
-56	שופטים	I-ORG	-	shacharmirkin
+52	ה_	B-ORG	-	shachar
+53	וועדה	I-ORG	-	shachar
+54	ל	I-ORG	-	shachar
+55	בחירת	I-ORG	-	shachar
+56	שופטים	I-ORG	-	shachar
 57	ו	O	-	-
 58	ב	O	-	-
-59	ה_	B-ORG	-	shacharmirkin
-60	וועדה	I-ORG	-	shacharmirkin
-61	ל	I-ORG	-	shacharmirkin
-62	בחירת	I-ORG	-	shacharmirkin
-63	דיינים	I-ORG	-	shacharmirkin
+59	ה_	B-ORG	-	shachar
+60	וועדה	I-ORG	-	shachar
+61	ל	I-ORG	-	shachar
+62	בחירת	I-ORG	-	shachar
+63	דיינים	I-ORG	-	shachar
 64	.	O	-	-
 
 # sent_id = batch-0010-0026
@@ -8993,11 +8993,11 @@
 14	_הוא	O	-	-
 15	נמצאת	O	-	-
 16	כיום	O	-	-
-17	לשכת	B-ORG	-	shacharmirkin
-18	עורכי	I-ORG	-	shacharmirkin
-19	-	I-ORG	-	shacharmirkin
-20	ה	I-ORG	-	shacharmirkin
-21	דין	I-ORG	-	shacharmirkin
+17	לשכת	B-ORG	-	shachar
+18	עורכי	I-ORG	-	shachar
+19	-	I-ORG	-	shachar
+20	ה	I-ORG	-	shachar
+21	דין	I-ORG	-	shachar
 22	,	O	-	-
 23	כאשר	O	-	-
 24	חברים	O	-	-
@@ -9036,9 +9036,9 @@
 57	,	O	-	-
 58	כותב	O	-	-
 59	עו"ד	O	-	-
-60	בן	B-PER	-	shacharmirkin
-61	-	I-PER	-	shacharmirkin
-62	יעקב	I-PER	-	shacharmirkin
+60	בן	B-PER	-	shachar
+61	-	I-PER	-	shachar
+62	יעקב	I-PER	-	shachar
 63	.	O	-	-
 
 # sent_id = batch-0010-0028
@@ -9053,9 +9053,9 @@
 8	ש	O	-	-
 9	ב	O	-	-
 10	צפון	O	-	-
-11	רחוב	B-LOC	-	shacharmirkin
-12	אבן	I-LOC	-	shacharmirkin
-13	גבירול	I-LOC	-	shacharmirkin
+11	רחוב	B-LOC	-	shachar
+12	אבן	I-LOC	-	shachar
+13	גבירול	I-LOC	-	shachar
 14	,	O	-	-
 15	מבהיקה	O	-	-
 16	ב	O	-	-
@@ -9092,16 +9092,16 @@
 # sent_id = batch-0010-0029
 # text = זהו בית ה כנסת "היכל יהודה" של יוצאי סלוניקי, ה נושא את שם_ _של_ _הוא של יהודה רקנטי, נשיא ה קהילה לשעבר.
 1	זהו	O	-	-
-2	בית	B-LOC	-	shacharmirkin
-3	ה	I-LOC	-	shacharmirkin
-4	כנסת	I-LOC	-	shacharmirkin
-5	"	I-LOC	-	shacharmirkin
-6	היכל	I-LOC	-	shacharmirkin
-7	יהודה	I-LOC	-	shacharmirkin
-8	"	I-LOC	-	shacharmirkin
+2	בית	B-LOC	-	shachar
+3	ה	I-LOC	-	shachar
+4	כנסת	I-LOC	-	shachar
+5	"	I-LOC	-	shachar
+6	היכל	I-LOC	-	shachar
+7	יהודה	I-LOC	-	shachar
+8	"	I-LOC	-	shachar
 9	של	O	-	-
 10	יוצאי	O	-	-
-11	סלוניקי	B-LOC	-	shacharmirkin
+11	סלוניקי	B-LOC	-	shachar
 12	,	O	-	-
 13	ה	O	-	-
 14	נושא	O	-	-
@@ -9110,8 +9110,8 @@
 17	_של_	O	-	-
 18	_הוא	O	-	-
 19	של	O	-	-
-20	יהודה	B-PER	-	shacharmirkin
-21	רקנטי	I-PER	-	shacharmirkin
+20	יהודה	B-PER	-	shachar
+21	רקנטי	I-PER	-	shachar
 22	,	O	-	-
 23	נשיא	O	-	-
 24	ה	O	-	-
@@ -9172,7 +9172,7 @@
 27	ערבי	O	-	-
 28	לשעבר	O	-	-
 29	,	O	-	-
-30	סומייל	B-LOC	-	shacharmirkin
+30	סומייל	B-LOC	-	shachar
 31	,	O	-	-
 32	בליל	O	-	-
 33	של	O	-	-
@@ -9223,8 +9223,8 @@
 9	הקים	O	-	-
 10	ה	O	-	-
 11	אדריכל	O	-	-
-12	יצחק	B-PER	-	shacharmirkin
-13	טולידנו	I-PER	-	shacharmirkin
+12	יצחק	B-PER	-	shachar
+13	טולידנו	I-PER	-	shachar
 14	מבנה	O	-	-
 15	מגושם	O	-	-
 16	ו	O	-	-
@@ -9264,7 +9264,7 @@
 29	_של_	O	-	-
 30	_היא	O	-	-
 31	של	O	-	-
-32	סלוניקי	B-LOC	-	shacharmirkin
+32	סלוניקי	B-LOC	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0011-0004
@@ -9494,9 +9494,9 @@
 4	ה	O	-	-
 5	רווח	O	-	-
 6	ב	O	-	-
-7	תל	B-LOC	-	shacharmirkin
-8	-	I-LOC	-	shacharmirkin
-9	אביב	I-LOC	-	shacharmirkin
+7	תל	B-LOC	-	shachar
+8	-	I-LOC	-	shachar
+9	אביב	I-LOC	-	shachar
 10	,	O	-	-
 11	ו	O	-	-
 12	ה	O	-	-
@@ -9602,9 +9602,9 @@
 32	אחרת	O	-	-
 33	,	O	-	-
 34	נבנתה	O	-	-
-35	תל	B-LOC	-	shacharmirkin
-36	-	I-LOC	-	shacharmirkin
-37	אביב	I-LOC	-	shacharmirkin
+35	תל	B-LOC	-	shachar
+36	-	I-LOC	-	shachar
+37	אביב	I-LOC	-	shachar
 38	כ	O	-	-
 39	אוסף	O	-	-
 40	רציף	O	-	-
@@ -9659,16 +9659,16 @@
 3	_של_	O	-	-
 4	_היא	O	-	-
 5	היה	O	-	-
-6	לה	B-PER	-	shacharmirkin
-7	-	I-PER	-	shacharmirkin
-8	קורוואזיה	I-PER	-	shacharmirkin
+6	לה	B-PER	-	shachar
+7	-	I-PER	-	shachar
+8	קורוואזיה	I-PER	-	shachar
 9	,	O	-	-
 10	ש	O	-	-
 11	בנה	O	-	-
 12	את	O	-	-
 13	ה	O	-	-
 14	כנסייה	O	-	-
-15	ברונשאן	B-LOC	-	shacharmirkin
+15	ברונשאן	B-LOC	-	shachar
 16	ב	O	-	-
 17	שנות	O	-	-
 18	ה	O	-	-
@@ -9728,8 +9728,8 @@
 37	ה	O	-	-
 38	ענקיים	O	-	-
 39	של	O	-	-
-40	יוסף	B-PER	-	shacharmirkin
-41	שאלתיאל	I-PER	-	shacharmirkin
+40	יוסף	B-PER	-	shachar
+41	שאלתיאל	I-PER	-	shachar
 42	,	O	-	-
 43	תבליטי	O	-	-
 44	ה	O	-	-
@@ -9921,8 +9921,8 @@
 1	ה	O	-	-
 2	שיבה	O	-	-
 3	ל	O	-	-
-4	ארץ	B-LOC	-	shacharmirkin
-5	ישראל	I-LOC	-	shacharmirkin
+4	ארץ	B-LOC	-	shachar
+5	ישראל	I-LOC	-	shachar
 6	ו	O	-	-
 7	גיבוש_	O	-	-
 8	_של_	O	-	-
@@ -9953,9 +9953,9 @@
 8	אולי	O	-	-
 9	,	O	-	-
 10	ב	O	-	-
-11	כיפת	B-LOC	-	shacharmirkin
-12	ה	I-LOC	-	shacharmirkin
-13	סלע	I-LOC	-	shacharmirkin
+11	כיפת	B-LOC	-	shachar
+12	ה	I-LOC	-	shachar
+13	סלע	I-LOC	-	shachar
 14	ש	O	-	-
 15	הפכה	O	-	-
 16	ל	O	-	-
@@ -9998,7 +9998,7 @@
 
 # sent_id = batch-0011-0027
 # text = טולדנו לא פנה ל ה_ פתרון ה מקובל ה זה ו הוא ראוי ל הכרה על עצם ה מאמץ ש עשה לחרוג מ ה שגרתיות ו מ ה סתמיות ו לגבש ביטוי הנדסי ו צורני אקספרסיווי ל מהות_ _של_ _הוא של ה בניין ה פולחני , אך חבל ש ה דבר נעשה תוך גלישה ל פתרונות עיצוביים מפוקפקים.
-1	טולדנו	B-PER	-	shacharmirkin
+1	טולדנו	B-PER	-	shachar
 2	לא	O	-	-
 3	פנה	O	-	-
 4	ל	O	-	-
@@ -10142,9 +10142,9 @@
 14	,	O	-	-
 15	מכינים	O	-	-
 16	ב	O	-	-
-17	משרד	B-ORG	-	shacharmirkin
-18	ה	I-ORG	-	shacharmirkin
-19	משפטים	I-ORG	-	shacharmirkin
+17	משרד	B-ORG	-	shachar
+18	ה	I-ORG	-	shachar
+19	משפטים	I-ORG	-	shachar
 20	הצעת	O	-	-
 21	-	O	-	-
 22	חוק	O	-	-
@@ -10235,8 +10235,8 @@
 6	,	O	-	-
 7	ימנה	O	-	-
 8	שר	O	-	-
-9	ה	B-ORG	-	shacharmirkin
-10	אוצר	I-ORG	-	shacharmirkin
+9	ה	B-ORG	-	shachar
+10	אוצר	I-ORG	-	shachar
 11	פקיד	O	-	-
 12	-	O	-	-
 13	גבייה	O	-	-
@@ -10376,9 +10376,9 @@
 5	חוק	O	-	-
 6	,	O	-	-
 7	ירכז	O	-	-
-8	משרד	B-ORG	-	shacharmirkin
-9	ה	I-ORG	-	shacharmirkin
-10	אוצר	I-ORG	-	shacharmirkin
+8	משרד	B-ORG	-	shachar
+9	ה	I-ORG	-	shachar
+10	אוצר	I-ORG	-	shachar
 11	את	O	-	-
 12	ה	O	-	-
 13	נתונים	O	-	-
@@ -10471,8 +10471,8 @@
 # sent_id = batch-0012-0011
 # text = שר ה אוצר ימנה עובד מ משרד_ _של_ _הוא ש יהיה אחראי על מאגר זה.
 1	שר	O	-	-
-2	ה	B-ORG	-	shacharmirkin
-3	אוצר	I-ORG	-	shacharmirkin
+2	ה	B-ORG	-	shachar
+3	אוצר	I-ORG	-	shachar
 4	ימנה	O	-	-
 5	עובד	O	-	-
 6	מ	O	-	-
@@ -10606,8 +10606,8 @@
 32	קשר	O	-	-
 33	ממוחשב	O	-	-
 34	עם	O	-	-
-35	ה	B-ORG	-	shacharmirkin
-36	אוצר	I-ORG	-	shacharmirkin
+35	ה	B-ORG	-	shachar
+36	אוצר	I-ORG	-	shachar
 37	.	O	-	-
 
 # sent_id = batch-0012-0015
@@ -10722,7 +10722,7 @@
 16	חום	O	-	-
 17	,	O	-	-
 18	יין	O	-	-
-19	מרסלה	B-LOC	-	shacharmirkin
+19	מרסלה	B-LOC	-	shachar
 20	,	O	-	-
 21	לימון	O	-	-
 22	ו	O	-	-
@@ -10890,7 +10890,7 @@
 39	ב	O	-	-
 40	כל	O	-	-
 41	רחבי	O	-	-
-42	איטליה	B-LOC	-	shacharmirkin
+42	איטליה	B-LOC	-	shachar
 43	.	O	-	-
 
 # sent_id = batch-0012-0025
@@ -10976,7 +10976,7 @@
 16	עשוי	O	-	-
 17	ב	O	-	-
 18	סגנון	O	-	-
-19	גנואה	B-LOC	-	shacharmirkin
+19	גנואה	B-LOC	-	shachar
 20	,	O	-	-
 21	עם	O	-	-
 22	הרבה	O	-	-
@@ -11034,7 +11034,7 @@
 6	סקלופיני	O	-	-
 7	אלה	O	-	-
 8	-	O	-	-
-9	מרסלה	B-LOC	-	shacharmirkin
+9	מרסלה	B-LOC	-	shachar
 10	ו	O	-	-
 11	גם	O	-	-
 12	ה	O	-	-
@@ -11070,7 +11070,7 @@
 22	ו	O	-	-
 23	ב	O	-	-
 24	יין	O	-	-
-25	מרסלה	B-LOC	-	shacharmirkin
+25	מרסלה	B-LOC	-	shachar
 26	.	O	-	-
 
 # newdoc id = batch-0013
@@ -11084,7 +11084,7 @@
 6	ראגו	O	-	-
 7	עגל	O	-	-
 8	מ	O	-	-
-9	ליגוריה	B-LOC	-	shacharmirkin
+9	ליגוריה	B-LOC	-	shachar
 10	,	O	-	-
 11	עשירה	O	-	-
 12	ב	O	-	-
@@ -11220,8 +11220,8 @@
 
 # sent_id = batch-0013-0007
 # text = סימה וקסמן, ה בעלים של למדה בישול איטלקי משך חודש ו חצי ב ה_ מסעדה ה ניו יורקית ה מפורסמת בעלת אותו ה שם .
-1	סימה	B-PER	-	shacharmirkin
-2	וקסמן	I-PER	-	shacharmirkin
+1	סימה	B-PER	-	shachar
+2	וקסמן	I-PER	-	shachar
 3	,	O	-	-
 4	ה	O	-	-
 5	בעלים	O	-	-
@@ -11309,13 +11309,13 @@
 # sent_id = batch-0013-0010
 # text = מ לומברדיה ל לטיום ו משם ל ליגוריה , כל מינסטרונה ש ב_ _הוא נתקלתי אי פעם כלל צירוף זה או אחר של כרוב, עגבניות, אפונה ירוקה, ו ב מקרים רבים סוג כלשהו של פסטה.
 1	מ	O	-	-
-2	לומברדיה	B-LOC	-	shacharmirkin
+2	לומברדיה	B-LOC	-	shachar
 3	ל	O	-	-
-4	לטיום	B-LOC	-	shacharmirkin
+4	לטיום	B-LOC	-	shachar
 5	ו	O	-	-
 6	משם	O	-	-
 7	ל	O	-	-
-8	ליגוריה	B-LOC	-	shacharmirkin
+8	ליגוריה	B-LOC	-	shachar
 9	,	O	-	-
 10	כל	O	-	-
 11	מינסטרונה	O	-	-
@@ -11359,8 +11359,8 @@
 7	ב	O	-	-
 8	גרסה	O	-	-
 9	של	O	-	-
-10	לה	B-LOC	-	shacharmirkin
-11	קוצינה	I-LOC	-	shacharmirkin
+10	לה	B-LOC	-	shachar
+11	קוצינה	I-LOC	-	shachar
 12	,	O	-	-
 13	ש	O	-	-
 14	ל	O	-	-
@@ -11744,7 +11744,7 @@
 32	טובה	O	-	-
 33	ביותר	O	-	-
 34	ב	O	-	-
-35	איטליה	B-LOC	-	shacharmirkin
+35	איטליה	B-LOC	-	shachar
 36	.	O	-	-
 
 # sent_id = batch-0013-0027
@@ -12306,12 +12306,12 @@
 27	למצוא	O	-	-
 28	בין	O	-	-
 29	גבעות	O	-	-
-30	טוסקאנה	B-LOC	-	shacharmirkin
+30	טוסקאנה	B-LOC	-	shachar
 31	.	O	-	-
 
 # sent_id = batch-0014-0018
 # text = סרגיו, ש רכש ל עצמו מוניטין ב מסעדת ה חצר ב יפו , ממונה כאן על ה מטבח ו איש אינו יכול להתלונן ש ה אוכל אינו איטלקי אותנטי.
-1	סרגיו	B-PER	-	shacharmirkin
+1	סרגיו	B-PER	-	shachar
 2	,	O	-	-
 3	ש	O	-	-
 4	רכש	O	-	-
@@ -12320,10 +12320,10 @@
 7	מוניטין	O	-	-
 8	ב	O	-	-
 9	מסעדת	O	-	-
-10	ה	B-LOC	-	shacharmirkin
-11	חצר	I-LOC	-	shacharmirkin
+10	ה	B-LOC	-	shachar
+11	חצר	I-LOC	-	shachar
 12	ב	O	-	-
-13	יפו	B-LOC	-	shacharmirkin
+13	יפו	B-LOC	-	shachar
 14	,	O	-	-
 15	ממונה	O	-	-
 16	כאן	O	-	-
@@ -12492,7 +12492,7 @@
 23	פופולריות	O	-	-
 24	ביותר	O	-	-
 25	ב	O	-	-
-26	לומברדיה	B-LOC	-	shacharmirkin
+26	לומברדיה	B-LOC	-	shachar
 27	.	O	-	-
 
 # sent_id = batch-0014-0025
@@ -12629,9 +12629,9 @@
 8	ה	O	-	-
 9	איטלקי	O	-	-
 10	ל	O	-	-
-11	תל	B-LOC	-	shacharmirkin
-12	-	I-LOC	-	shacharmirkin
-13	אביב	I-LOC	-	shacharmirkin
+11	תל	B-LOC	-	shachar
+12	-	I-LOC	-	shachar
+13	אביב	I-LOC	-	shachar
 14	יכולה	O	-	-
 15	רק	O	-	-
 16	לשפר	O	-	-
@@ -12647,13 +12647,13 @@
 26	אז	O	-	-
 27	שלטה	O	-	-
 28	משפחת	O	-	-
-29	מדיצי	B-PER	-	shacharmirkin
+29	מדיצי	B-PER	-	shachar
 30	ב	O	-	-
 31	פירנצה	O	-	-
 32	ו	O	-	-
 33	ב	O	-	-
 34	אזור	O	-	-
-35	טוסקאנה	B-LOC	-	shacharmirkin
+35	טוסקאנה	B-LOC	-	shachar
 36	,	O	-	-
 37	הצטיינו	O	-	-
 38	ה	O	-	-
@@ -12821,7 +12821,7 @@
 2	ביקור	O	-	-
 3	אחד	O	-	-
 4	ב	O	-	-
-5	פרגו	B-LOC	-	shacharmirkin
+5	פרגו	B-LOC	-	shachar
 6	היתה	O	-	-
 7	ה	O	-	-
 8	מנה	O	-	-
@@ -12867,7 +12867,7 @@
 4	,	O	-	-
 5	ה	O	-	-
 6	אינסאלאטה	O	-	-
-7	פרגו	B-LOC	-	shacharmirkin
+7	פרגו	B-LOC	-	shachar
 8	,	O	-	-
 9	נוספה	O	-	-
 10	ל	O	-	-
@@ -12994,7 +12994,7 @@
 12	כך	O	-	-
 13	ש	O	-	-
 14	ב	O	-	-
-15	פרגו	B-LOC	-	shacharmirkin
+15	פרגו	B-LOC	-	shachar
 16	לא	O	-	-
 17	שומרים	O	-	-
 18	על	O	-	-
@@ -13154,7 +13154,7 @@
 2	ה_	O	-	-
 3	מחירים	O	-	-
 4	של	O	-	-
-5	פרגו	B-LOC	-	shacharmirkin
+5	פרגו	B-LOC	-	shachar
 6	אין	O	-	-
 7	זה	O	-	-
 8	בלתי	O	-	-
@@ -13242,14 +13242,14 @@
 1	ה	O	-	-
 2	בעלים	O	-	-
 3	,	O	-	-
-4	רפי	B-PER	-	shacharmirkin
-5	אדר	I-PER	-	shacharmirkin
+4	רפי	B-PER	-	shachar
+5	אדר	I-PER	-	shachar
 6	,	O	-	-
 7	התגורר	O	-	-
 8	זמן	O	-	-
 9	מה	O	-	-
 10	ב	O	-	-
-11	איטליה	B-LOC	-	shacharmirkin
+11	איטליה	B-LOC	-	shachar
 12	ו	O	-	-
 13	הוא	O	-	-
 14	מכנה	O	-	-
@@ -13268,7 +13268,7 @@
 27	רחבות	O	-	-
 28	,	O	-	-
 29	"	O	-	-
-30	טרטוריה	B-LOC	-	shacharmirkin
+30	טרטוריה	B-LOC	-	shachar
 31	"	O	-	-
 32	,	O	-	-
 33	ו	O	-	-
@@ -13480,7 +13480,7 @@
 19	מ	O	-	-
 20	חוץ	O	-	-
 21	ל	O	-	-
-22	איטליה	B-LOC	-	shacharmirkin
+22	איטליה	B-LOC	-	shachar
 23	.	O	-	-
 
 # sent_id = batch-0016-0002
@@ -13535,8 +13535,8 @@
 
 # sent_id = batch-0016-0003
 # text = בועז קוינטנר, ה בעלים ו ה טבח של התגורר ב רומא משך שלוש שנים ו הוא אחד מ בעלי ה מסעדות ה איטלקיות ה מקומיים ש עבר חניכה קולינארית ב איטליה .
-1	בועז	B-PER	-	shacharmirkin
-2	קוינטנר	I-PER	-	shacharmirkin
+1	בועז	B-PER	-	shachar
+2	קוינטנר	I-PER	-	shachar
 3	,	O	-	-
 4	ה	O	-	-
 5	בעלים	O	-	-
@@ -13546,7 +13546,7 @@
 9	של	O	-	-
 10	התגורר	O	-	-
 11	ב	O	-	-
-12	רומא	B-LOC	-	shacharmirkin
+12	רומא	B-LOC	-	shachar
 13	משך	O	-	-
 14	שלוש	O	-	-
 15	שנים	O	-	-
@@ -13566,7 +13566,7 @@
 29	חניכה	O	-	-
 30	קולינארית	O	-	-
 31	ב	O	-	-
-32	איטליה	B-LOC	-	shacharmirkin
+32	איטליה	B-LOC	-	shachar
 33	.	O	-	-
 
 # sent_id = batch-0016-0004
