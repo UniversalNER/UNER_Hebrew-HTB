@@ -6,7 +6,7 @@
   "num_annotators": 3,
   "annotator_ids": [
     "hilagnn@gmail.com",
-    "sm",
+    "shachar",
     "stephen"
   ],
   "num_docs_with_multiple_annotators": 17,
@@ -18,7 +18,7 @@
     "LOC": 115
   },
   "pairwise_f1": {
-    "ref:hilagnn@gmail.com, pred:sm": {
+    "ref:hilagnn@gmail.com, pred:shachar": {
       "num_common_annotated_docs": 17,
       "LOC": {
         "precision": 0.7130434782608696,

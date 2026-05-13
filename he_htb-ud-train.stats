@@ -6,7 +6,7 @@
   "num_annotators": 3,
   "annotator_ids": [
     "hilagnn@gmail.com",
-    "sm",
+    "shachar",
     "yuvalpinter"
   ],
   "num_docs_with_multiple_annotators": 52,
@@ -18,7 +18,7 @@
     "PER": 2156
   },
   "pairwise_f1": {
-    "ref:hilagnn@gmail.com, pred:sm": {
+    "ref:hilagnn@gmail.com, pred:shachar": {
       "num_common_annotated_docs": 27,
       "LOC": {
         "precision": 0.8385826771653543,
@@ -54,7 +54,7 @@
         "f1": 0.7272727272727273
       }
     },
-    "ref:sm, pred:yuvalpinter": {
+    "ref:shachar, pred:yuvalpinter": {
       "num_common_annotated_docs": 26,
       "LOC": {
         "precision": 0.6348547717842323,
